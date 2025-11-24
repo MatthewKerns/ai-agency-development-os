@@ -6,7 +6,7 @@
 | Component | Weight | Description |
 |-----------|--------|-------------|
 | Task Completion | 40% | Tier 1 tasks completed vs planned |
-| Strategic Alignment | 30% | Work served OBG (demo videos) |
+| Strategic Alignment | 30% | Work served OBG ($50k/mo revenue) |
 | Time Efficiency | 20% | Actual vs estimated time |
 | Focus Quality | 10% | Deep work blocks maintained |
 
@@ -17,7 +17,7 @@
 ### 10/10 - Exceptional
 - All Tier 1 tasks completed
 - Made significant progress on Tier 2
-- 100% strategically aligned (demo video progress)
+- 100% strategically aligned (P0 revenue work)
 - Time estimates within 10%
 - All focus blocks maintained
 - THE ONE THING completed with excellence
@@ -95,10 +95,10 @@
 
 ### For Strategic Alignment (30%)
 ```
-All work served demo video goal = 10 points
+All work served $50k/mo goal (P0-P1) = 10 points
 Most work served goal = 8 points
 Half served goal = 5 points
-Mostly off-track = 3 points
+Mostly off-track (P3+ work) = 3 points
 Worked on anti-priorities = 1 point
 ```
 
@@ -137,6 +137,6 @@ No deep focus achieved = 1 point
 
 1. **No inflation** - Be brutally honest
 2. **Evidence-based** - Score based on facts, not feelings
-3. **OBG-centered** - Strategic alignment matters most
+3. **OBG-centered** - $50k/mo revenue is the goal
 4. **Learn from lows** - Low scores are data, not failure
 5. **Trend matters** - One bad day is fine, patterns aren't

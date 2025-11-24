@@ -24,35 +24,43 @@
 
 ## OBG Progress
 
-**Goal:** 10 demo videos by January 2026, 5+ with quantifiable results
+**Goal:** $50k/month revenue for 3+ consecutive months
 
-### Demo Video Status
-| Demo | Client/Type | Status This Week | Progress |
-|------|-------------|------------------|----------|
-| #1 | Linh | | |
-| #2 | Trevor | | |
-| #3-10 | Lead-driven | | |
+### Revenue Status
+| Source | This Week | MTD | Target |
+|--------|-----------|-----|--------|
+| Diagnostic Calls | $ | $ | - |
+| Project Delivery | $ | $ | - |
+| Retainers | $ | $ | - |
+| **Total** | $ | $ | $50,000 |
 
-**Demos Completed:** ___/10
-**Demos with Quantified Results:** ___/5+
+**Consecutive Months at $50k+:** ___/3
+
+### Active Client Pipeline
+| Client | Project | Value | Status |
+|--------|---------|-------|--------|
+| Linh | Invoice automation | $ | |
+| Trevor | Brand consultation | $ | |
 
 ---
 
-## Three Pillars Check
+## Priority Check
 
-### 1. Credibility
-- [ ] Progress on demo videos?
-- [ ] New quantifiable results documented?
+### P0: Revenue Activities
+- [ ] Diagnostic calls completed?
+- [ ] Projects delivered?
+- [ ] Payments collected?
 - Hours spent: ___
 
-### 2. Technical Expertise
-- [ ] Training progress? (Currently: ~50%)
-- [ ] Coaching calls completed?
+### P1: Agency Infrastructure
+- [ ] Roles/splits clarified?
+- [ ] Templates/processes created?
+- [ ] Developer pipeline built?
 - Hours spent: ___
 
-### 3. Lead Flow (Deferred)
-- [ ] Stayed focused on Pillars 1-2?
-- [ ] New ideas parked for later?
+### P2-P5 (Deferred until OBG)
+- [ ] Stayed focused on P0-P1?
+- [ ] Lower priority work avoided?
 
 ---
 

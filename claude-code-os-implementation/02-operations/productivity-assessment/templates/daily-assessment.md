@@ -77,7 +77,13 @@
 ---
 
 ## OBG Alignment Check
-Did today's work contribute to: **10 demo videos by January 2026**?
+Did today's work contribute to: **$50k/month revenue for 3+ consecutive months**?
+
+**P0 (Revenue):**
+[ ] Closed deals / delivered projects / collected payments
+
+**P1 (Infrastructure):**
+[ ] Built agency systems / clarified roles / created templates
 
 [ ] Yes - How:
 [ ] No - Why not:
