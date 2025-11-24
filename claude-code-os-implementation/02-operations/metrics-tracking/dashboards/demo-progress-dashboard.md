@@ -1,7 +1,8 @@
 # Demo Progress Dashboard
 
 **Last Updated:** YYYY-MM-DD
-**OBG:** 10 demo videos by January 2026, 5+ with quantifiable results
+**OBG:** $50k/month revenue for 3+ consecutive months
+**This Dashboard:** Tracks P4 credibility assets (demo videos) - build AFTER revenue is flowing
 
 ---
 
@@ -89,10 +90,11 @@ With Quantified Results: [X]/5+
 
 ## Health Check
 
-- [ ] On track for 10 demos by Jan 2026?
-- [ ] Client demos progressing?
-- [ ] Lead-driven demos pipeline identified?
-- [ ] Coaching calls being used?
+- [ ] Revenue OBG on track first? (P0)
+- [ ] Demo creation supporting sales? (P4)
+- [ ] Client demos from completed projects?
 - [ ] Results being quantified?
+
+**Priority Reminder:** Demos are P4 - only pursue AFTER P0-P1 work is solid.
 
 **Overall Status:** [GREEN/YELLOW/RED]

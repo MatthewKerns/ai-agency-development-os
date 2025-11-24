@@ -2,8 +2,24 @@
 
 ## Overview
 **Client:** Trevor
-**Type:** Client Project (Credibility Pillar)
-**Status:** Active - Delivery Phase
+**Type:** Client Project (P0 - Revenue)
+**Status:** Active - Build Phase
+**Priority:** P0 - Revenue generating
+
+---
+
+## Project Financials
+
+| Item | Amount |
+|------|--------|
+| Project Value | $ |
+| Developer Cost | $ |
+| Your Margin | $ |
+| Sales Fee | $ |
+| Net Profit | $ |
+
+**Margin %:**
+**Payment Status:** [ ] Invoiced [ ] Collected
 
 ---
 
@@ -17,25 +33,29 @@ Brand consultations and copy generation automation:
 
 ## Progress Tracker
 
+### Discovery Phase
+- [ ] Diagnostic call completed (billed?)
+- [ ] Scope defined
+- [ ] Estimate provided
+- [ ] Client approved
+
 ### Build Phase
-- [ ] Initial automation built
+- [ ] Prototype built (vibe coding)
+- [ ] Developer assigned (self or delegated?)
 - [ ] Consultation workflow functional
 - [ ] Copy generation working
 - [ ] Client testing completed
 
 ### Delivery Phase
-- [ ] Client using automation
-- [ ] Results being measured
-- [ ] Refinements implemented
-- [ ] Ready for demo video
+- [ ] Final delivery to client
+- [ ] Client sign-off
+- [ ] Invoice sent
+- [ ] Payment collected
 
-### Demo Video Phase
-- [ ] Script/outline created
-- [ ] Gaps identified
-- [ ] Coaching call booked
-- [ ] Coaching call completed
-- [ ] First draft filmed
-- [ ] Final version published
+### Post-Delivery (P4 - Optional)
+- [ ] Demo video created
+- [ ] Results quantified
+- [ ] Case study documented
 
 ---
 
@@ -51,47 +71,35 @@ Brand consultations and copy generation automation:
 - Hours on brand consultations per week: ___
 - Hours on copy generation per week: ___
 
-### ROI Calculation
+### ROI for Client
 - Time saved per week: ___ hours
 - Consultation capacity increase: ___%
 - Value delivered: $___/month
 
 ---
 
-## Demo Video Content
-
-### Key Points to Cover
-1. The problem (time-consuming consultations)
-2. The solution (automated workflow + copy gen)
-3. How it works (demo walkthrough)
-4. Quantified results
-5. Client testimonial
-
-### Script Outline
-- Hook:
-- Problem:
-- Solution:
-- Demo:
-- Results:
-- CTA:
-
----
-
 ## Dependencies
-- [ ] Deliver working automation
-- [ ] Client approval for demo
-- [ ] Collect baseline metrics
-- [ ] Collect result metrics
+- [ ] Complete build
+- [ ] Client availability for testing
 
 ## Blockers
 -
 
 ## Next Actions
-1. Complete automation delivery
-2. Collect metrics from Trevor
-3. Prepare demo video script
-4. Book coaching call for review
+1. Complete automation build
+2. Client testing
+3. Deliver and get sign-off
+4. Send invoice
+5. Collect payment
 
 ---
 
-**Target Completion:** Demo video published by end of November 2025
+## Timeline
+**Started:**
+**Target Delivery:**
+**Target Payment:**
+
+---
+
+## Notes
+-
