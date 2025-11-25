@@ -87,6 +87,28 @@
 
 ---
 
+## By Relationship Stage
+
+### Prospective (Not yet contacted)
+- [Name] - [Level] - [Stack] - Message drafted: [Yes/No]
+
+### Contacted (Awaiting response)
+- [Name] - [Level] - [Stack] - Contacted: [Date] - Follow-up: [Date]
+
+### Active Conversation (Engaging)
+- [Name] - [Level] - [Stack] - Next step: [Action]
+
+### Actively Working With (Current projects)
+- [Name] - [Level] - [Stack] - Project: [Name] - End: [Date]
+
+### Warm/Available (Good relationship, ready when needed)
+- [Name] - [Level] - [Stack] - Last project: [Date] - Check-in: [Monthly/Quarterly]
+
+### Inactive/Dormant (Need to reactivate)
+- [Name] - [Level] - [Stack] - Last contact: [Date] - Reason: [Context]
+
+---
+
 ## By Availability
 
 ### Available Now

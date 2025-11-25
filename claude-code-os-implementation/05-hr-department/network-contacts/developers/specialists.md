@@ -58,6 +58,10 @@
 - Project: $[X] per project
 - **Specialist premium:** [How much more vs general dev?]
 
+**Relationship Status:** [Prospective / Contacted / Active Conversation / Actively Working With / Warm/Available / Inactive/Dormant / Not Interested]
+- **Last Contact:** [Date]
+- **Projects Together:** [Number of completed projects]
+
 **Cultural Fit:**
 - Communication: [Technical depth, client-facing ability]
 - Work style: [e.g., detail-oriented, research-driven]

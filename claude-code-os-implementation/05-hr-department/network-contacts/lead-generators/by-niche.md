@@ -35,7 +35,8 @@
 - **Volume:** [High/Medium/Low - how many deals can they bring?]
 - **Ticket Size:** $[X] average deal size they can bring
 
-**Relationship Status:**
+**Relationship Status:** [Prospective / Contacted / Active Conversation / Actively Working With / Warm/Available / Inactive/Dormant / Not Interested]
+- **Last Contact:** [Date]
 - **Trust Level:** [New/Warming/Solid/Deep]
 - **Reciprocity:** [What do they want in return?]
 - **Commission Expectation:** [X%] or [Flat fee] or [Unknown]

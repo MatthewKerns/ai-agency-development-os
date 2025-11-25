@@ -23,8 +23,9 @@
 - [Potential value 1]
 - [Potential value 2]
 
-**Relationship Status:**
-- [New / Warming / Solid]
+**Relationship Status:** [Prospective / Contacted / Active Conversation / Actively Working With / Warm/Available / Inactive/Dormant / Not Interested]
+- **Last Contact:** [Date]
+- **Connection Strength:** [New / Warming / Solid]
 
 **Next Steps:**
 - [ ] [Action]

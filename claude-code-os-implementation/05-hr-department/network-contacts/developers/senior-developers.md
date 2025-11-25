@@ -57,6 +57,11 @@
 - Project: $[X] per project or Unknown
 - **Retainer option:** [Yes/No - monthly rate?]
 
+**Relationship Status:** [Prospective / Contacted / Active Conversation / Actively Working With / Warm/Available / Inactive/Dormant / Not Interested]
+- **Last Contact:** [Date]
+- **Projects Together:** [Number of completed projects]
+- **Partnership Stage:** [Exploring / Active / Strategic]
+
 **Cultural Fit:**
 - Communication: [e.g., excellent with clients, technical depth]
 - Work style: [e.g., autonomous, strategic thinker]

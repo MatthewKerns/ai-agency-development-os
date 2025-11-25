@@ -42,9 +42,9 @@
 - **Cost:** [Free / Reciprocal / $X per session]
 - **Best way to reach:** [Email / GitHub / Slack / etc.]
 
-**Relationship Status:**
-- **Connection strength:** [Just met / Warming / Solid / Deep]
-- **Last contact:** [Date]
+**Relationship Status:** [Prospective / Contacted / Active Conversation / Actively Working With / Warm/Available / Inactive/Dormant / Not Interested]
+- **Last Contact:** [Date]
+- **Connection Strength:** [Just met / Warming / Solid / Deep]
 
 **When to Reach Out:**
 - [Specific technical scenarios]

@@ -35,6 +35,27 @@ network-contacts/
 
 ---
 
+## Relationship Status Tracking
+
+Every contact has a **Relationship Status** field to track where they are in your pipeline:
+
+| Status | Definition | Next Action |
+|--------|------------|-------------|
+| **Prospective** | Not yet contacted, preparing message | Draft outreach message |
+| **Contacted** | Reached out, awaiting response | Follow up if no response in 3-5 days |
+| **Active Conversation** | Engaging back and forth | Keep conversation moving |
+| **Actively Working With** | Currently doing projects together | Maintain relationship, track performance |
+| **Warm/Available** | Good relationship, available when needed | Check in monthly/quarterly |
+| **Inactive/Dormant** | Haven't spoken in 3+ months | Reactivation campaign |
+| **Not Interested** | Declined or not a fit | Archive, revisit in 6-12 months |
+
+**Usage:**
+- Update status whenever relationship changes
+- Use index files to see all contacts at each stage
+- Focus activation efforts on "Prospective" and "Contacted" stages
+
+---
+
 ## The 5 Contact Categories
 
 ### 1. Developers (Delegation)

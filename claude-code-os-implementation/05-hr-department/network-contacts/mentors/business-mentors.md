@@ -43,10 +43,10 @@
 - **Cost:** [Free / Reciprocal / $X per session / Program fee]
 - **Best way to reach:** [Email / DM / Through mutual friend]
 
-**Relationship Status:**
-- **Connection strength:** [Just met / Warming / Solid / Deep]
-- **Last contact:** [Date]
-- **Value exchanged:** [What you've given/received]
+**Relationship Status:** [Prospective / Contacted / Active Conversation / Actively Working With / Warm/Available / Inactive/Dormant / Not Interested]
+- **Last Contact:** [Date]
+- **Connection Strength:** [Just met / Warming / Solid / Deep]
+- **Value Exchanged:** [What you've given/received]
 
 **When to Reach Out:**
 - [Specific scenarios - e.g., When pricing large deals]

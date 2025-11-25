@@ -63,14 +63,26 @@
 
 ## By Relationship Stage
 
-### Active (Currently bringing deals)
-- [Name] - Last deal: [Date] - Next check-in: [Date]
+### Prospective (Not yet contacted)
+- [Name] - [Niche] - Message drafted: [Yes/No] - Outreach planned: [Date]
 
-### Warming (Building relationship)
-- [Name] - Stage: [Context] - Next step: [Action]
+### Contacted (Awaiting response)
+- [Name] - [Niche] - Contacted: [Date] - Follow-up: [Date]
 
-### Inactive (Need to reactivate)
-- [Name] - Last contact: [Date] - Reactivate: [Why/How]
+### Active Conversation (Engaging)
+- [Name] - [Niche] - Stage: [Context] - Next step: [Action]
+
+### Actively Working With (Current partnerships)
+- [Name] - [Niche] - Last deal: [Date] - Next check-in: [Date]
+
+### Warm/Available (Good relationship, ready when needed)
+- [Name] - [Niche] - Last contact: [Date] - Check-in: [Quarterly/Monthly]
+
+### Inactive/Dormant (Need to reactivate)
+- [Name] - [Niche] - Last contact: [Date] - Reactivate: [Why/How]
+
+### Not Interested (Declined or not a fit)
+- [Name] - [Niche] - Reason: [Context] - Revisit: [Date or Never]
 
 ---
 

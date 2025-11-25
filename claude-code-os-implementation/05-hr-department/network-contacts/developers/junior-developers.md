@@ -47,6 +47,10 @@
 - Hourly: $[X]/hr or Unknown
 - Project: $[X] per project or Unknown
 
+**Relationship Status:** [Prospective / Contacted / Active Conversation / Actively Working With / Warm/Available / Inactive/Dormant / Not Interested]
+- **Last Contact:** [Date]
+- **Projects Together:** [Number of completed projects]
+
 **Cultural Fit:**
 - Communication style: [e.g., responsive, needs direction]
 - Work style: [e.g., follows instructions well, needs hand-holding]

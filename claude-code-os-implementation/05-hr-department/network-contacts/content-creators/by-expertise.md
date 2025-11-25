@@ -36,7 +36,8 @@
 - [Audience overlap - do they reach your target clients?]
 - [Credibility - can you reference their work?]
 
-**Relationship Status:**
+**Relationship Status:** [Prospective / Contacted / Active Conversation / Actively Working With / Warm/Available / Inactive/Dormant / Not Interested]
+- **Last Contact:** [Date]
 - **Connection:** [Don't know personally / Met once / Warming / Solid]
 - **Engagement:** [Just follow / Comment / Direct contact]
 
