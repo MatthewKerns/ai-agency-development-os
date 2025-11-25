@@ -41,6 +41,9 @@
 ### Custom AI Development
 - **Simon** - Claude Code specialist, 4 deals/4 weeks - Unknown - Likely booked (EU, Southend)
 
+### Assessment/Quiz Building
+- [Name] - [Platform: EventBrite, Score App, Lovable, etc.] - [Rate] - [Availability]
+
 ---
 
 ## By Platform/Tools

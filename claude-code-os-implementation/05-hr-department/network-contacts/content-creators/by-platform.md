@@ -53,3 +53,10 @@
 - [Name] - [Follower count] - [Expertise] - [Why relevant]
 
 ---
+
+## EventBrite
+
+### Event-Based Lead Gen
+- **Katrina Roddy** - 500-800 registrations per event - Lead gen via AI assessments - EventBrite + ads model, 3-week timeline
+
+---

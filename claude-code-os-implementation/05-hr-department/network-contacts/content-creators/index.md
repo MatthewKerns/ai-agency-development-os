@@ -2,7 +2,7 @@
 
 **Purpose:** Quick reference for learning and partnership opportunities
 
-**Total Tracked:** 0
+**Total Tracked:** 1
 **Last Updated:** 2025-11-25
 
 ---
@@ -39,7 +39,7 @@
 ### Their Audience = Your Target Clients
 **These creators reach businesses that need your services**
 
-- [Creator] - [Niche they serve] - [Opportunity]
+- **Katrina Roddy** - Entrepreneur coaching (EventBrite events) - Partnership: Her coaching clients → our automation services (500-800 event attendees)
 
 ---
 
