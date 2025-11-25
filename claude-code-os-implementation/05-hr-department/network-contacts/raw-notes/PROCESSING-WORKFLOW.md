@@ -74,7 +74,25 @@ Ask: "How does this person help me reach $50k/mo OBG?"
 | Run paid coaching programs | Coach | `coaches/business-coaches.md` |
 | Don't fit above but valuable | General | `general-contacts.md` |
 
-**Multiple categories?** Pick the PRIMARY value they bring.
+**⚠️ IMPORTANT: Multiple Categories**
+
+**People can (and often do) fit multiple categories. Add them to ALL relevant categories.**
+
+**Examples:**
+- Developer who creates content → Add to BOTH `developers/` AND `content-creators/`
+- Lead generator who is also a mentor → Add to BOTH `lead-generators/` AND `mentors/`
+- Developer who can also bring deals → Add to BOTH `developers/` AND `lead-generators/`
+
+**How to decide:**
+1. Read their full raw notes
+2. Identify ALL ways they can provide value
+3. Add them to EVERY category where they have expertise
+4. In each file, emphasize the relevant expertise for that category
+
+**Example: Sway Clarke**
+- "Strongest forte is making content" → `content-creators/`
+- "Loves doing that on n8n" → `developers/`
+- Result: Add to BOTH, emphasizing different aspects in each file
 
 ### 2.2.5: Check for NEW Automation Types ⚠️ IMPORTANT
 
