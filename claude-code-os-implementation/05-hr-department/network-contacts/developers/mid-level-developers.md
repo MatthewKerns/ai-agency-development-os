@@ -441,6 +441,7 @@
 - Trying not to go down development rabbit holes (good discipline)
 - Early stage but smart approach
 - Good contact for n8n work and content strategy
+- **ALSO IN:** content-creators/by-expertise.md (content strategy specialist)
 
 ---
 
