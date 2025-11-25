@@ -10,16 +10,35 @@
 
 ## Project Financials
 
-| Item | Amount |
-|------|--------|
-| Project Value | $ |
-| Developer Cost | $ |
-| Your Margin | $ |
-| Sales Fee | $ |
-| Net Profit | $ |
+### Phase 1 (First $500) - ACTIVE
+**Scope:**
+- Data storage working across all fields
+- Chatbot retrieves and uses stored data
+- Pages arranged per Fathom call specifications
 
-**Margin %:**
-**Payment Status:** [ ] Invoiced [ ] Collected
+**Payment Status:** [ ] Delivered [ ] Invoiced [ ] Collected $500
+
+### Phase 2 (Second $500) - QUEUED
+**Scope:**
+- Chat thread history enabled
+- Improved PDF exports
+- Updated privacy messaging
+- Final walkthrough testing
+
+**Payment Status:** [ ] Delivered [ ] Invoiced [ ] Collected $500
+
+### Future Phases (Scale to $1000/chunk)
+**If P1 delivered quickly (by 11/25), scope additional features at $1000/chunk**
+
+| Item | Current Total |
+|------|--------|
+| Phase 1 | $500 |
+| Phase 2 | $500 |
+| **Total Contracted** | **$1000** |
+| Future phases | $1000/chunk |
+
+**Margin:** 100% (self-built)
+**Reference:** Fathom recording + notes from last call
 
 ---
 
