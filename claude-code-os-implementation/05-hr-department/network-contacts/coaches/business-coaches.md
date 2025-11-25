@@ -1,9 +1,34 @@
 # Business Coaches
 
-**Purpose:** Paid coaching relationships for structured business growth guidance
+**Purpose:** Track both paid coaching relationships and free coaching resources for business growth guidance
 
-**Total:** 0
+**Total Paid Programs:** 0
+**Free Resources:** AAA Network
 **Last Updated:** 2025-11-25
+
+---
+
+## Free Coaching Resources
+
+### AAA Network - Free Coaching Calls
+
+**Access:** All AAA network coaching calls are FREE
+**Requirement:** Come with genuine problem or stopping point where high-level advice would be beneficial
+**Preparation:** Think through details before booking call
+
+**How to use effectively:**
+1. Work through problem yourself first
+2. Identify specific stopping point or decision needed
+3. Prepare context and specific questions
+4. Book call when ready for high-level strategic input
+5. Take detailed notes (Fathom recordings available)
+
+**Available Coaches:**
+- Richard (expertise TBD - fill in from coaching calls)
+- Denis Daigle (see coaching call notes in `/coaching-call-notes/`)
+- [Add others as discovered]
+
+**Coaching Call Notes:** Track in `/network-contacts/coaching-call-notes/`
 
 ---
 
