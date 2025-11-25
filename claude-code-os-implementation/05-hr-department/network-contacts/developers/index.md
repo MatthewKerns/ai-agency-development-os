@@ -2,75 +2,70 @@
 
 **Quick lookup for "I need a developer who can..."**
 
+**Total Developers:** 6
 **Last Updated:** 2025-11-25
 
 ---
 
-## By Technology Stack
+## By Automation Type
+**"I need someone who builds..."**
 
-### Frontend
-- **React/Next.js:**
-  - [Name] - [Level] - [Rate] - [Availability]
+### Voice Agents/AI
+- **Josh Packer** - Voice agent specialist - Unknown - Unknown (get from Mekaiel)
+- **Bogdan Dragomir** - Voice SaaS, sales training - Unknown - Unknown (EU event)
 
-- **Vue/Nuxt:**
-  - [Name] - [Level] - [Rate] - [Availability]
+### CRM Automation
+- [Name] - [Projects done] - [Rate] - [Availability]
 
-- **Angular:**
-  - [Name] - [Level] - [Rate] - [Availability]
+### Email Automation / Campaigns
+- **Rishi Gupta** - Email tracking, Google Sheets automation - Unknown - Unknown (EU, 4 clients)
 
-- **Vanilla JS/TypeScript:**
-  - [Name] - [Level] - [Rate] - [Availability]
+### RAG / Document Processing
+- [Name] - [Projects] - [Rate] - [Availability]
 
-### Backend
-- **Node.js:**
-  - [Name] - [Level] - [Rate] - [Availability]
+### Document Processing / Automation
+- [Name] - [Type: OCR, extraction, classification, etc.] - [Rate] - [Availability]
 
-- **Python/Django/Flask:**
-  - [Name] - [Level] - [Rate] - [Availability]
+### Proposal/Quote Generation
+- [Name] - [Specialization] - [Rate] - [Availability]
 
-- **PHP/Laravel:**
-  - [Name] - [Level] - [Rate] - [Availability]
+### Lead Capture / Sales Workflows
+- **Rishi Gupta** - Sales automation focus - Unknown - Unknown (EU, 4 clients)
 
-- **Ruby/Rails:**
-  - [Name] - [Level] - [Rate] - [Availability]
+### Process Automation / Workflows
+- **Sway Clarke** - n8n specialist, content creator - Unknown - Part-time (EU, Berlin)
 
-- **Java/Spring:**
-  - [Name] - [Level] - [Rate] - [Availability]
+### AI Training/Audits
+- **Scott** - AI training, audits, custom dev - £8k deals - Available (EU, UK)
 
-- **Go:**
-  - [Name] - [Level] - [Rate] - [Availability]
-
-### Full Stack
-- [Name] - [Stack] - [Level] - [Rate] - [Availability]
-
-### Mobile
-- **iOS (Swift):**
-  - [Name] - [Level] - [Rate] - [Availability]
-
-- **Android (Kotlin/Java):**
-  - [Name] - [Level] - [Rate] - [Availability]
-
-- **React Native:**
-  - [Name] - [Level] - [Rate] - [Availability]
-
-- **Flutter:**
-  - [Name] - [Level] - [Rate] - [Availability]
+### Custom AI Development
+- **Simon** - Claude Code specialist, 4 deals/4 weeks - Unknown - Likely booked (EU, Southend)
 
 ---
 
-## By Specialty
+## By Platform/Tools
+**"I need someone experienced with..."**
 
-### AI/ML
-- [Name] - [Specialty] - [Rate] - [Availability]
+### n8n Specialists
+- **Sway Clarke** - Mid-level, n8n specialist - Unknown - Part-time (EU, Berlin)
 
-### DevOps/Cloud
-- [Name] - [Focus] - [Rate] - [Availability]
+### Make.com/Integromat
+- [Name] - [Level] - [Rate] - [Availability]
 
-### Database/Data
-- [Name] - [Focus] - [Rate] - [Availability]
+### Zapier
+- [Name] - [Level] - [Rate] - [Availability]
 
-### Security
-- [Name] - [Focus] - [Rate] - [Availability]
+### Claude Code
+- **Simon** - Mid-level, 4 deals/4 weeks - Unknown - Likely booked (EU, Southend, replaced salary)
+
+### Google Sheets Automation
+- **Rishi Gupta** - Mid-level, email tracking - Unknown - Unknown (EU, 4 clients)
+
+### API Integration Specialists
+- [Name] - [Systems connected] - [Rate] - [Availability]
+
+### Custom Code (Python, Node.js, etc.)
+- [Name] - [Languages] - [Rate] - [Availability]
 
 ---
 
@@ -90,7 +85,12 @@
 ## By Relationship Stage
 
 ### Prospective (Not yet contacted)
-- [Name] - [Level] - [Stack] - Message drafted: [Yes/No]
+- **Simon** - Mid-level - Claude Code, custom AI - HIGH PRIORITY (4 deals/4 weeks model)
+- **Scott** - Mid-level - AI training/audits - HIGH PRIORITY (£8k deals, invited contact)
+- **Rishi Gupta** - Mid-level - Email automation, sales - (4 clients, event networking)
+- **Sway Clarke** - Mid-level - n8n workflows - (content strategy insights)
+- **Bogdan Dragomir** - Mid-level - Voice SaaS - (3 months focused)
+- **Josh Packer** - Specialist - Voice agents - HIGH PRIORITY (voice trend confirmed, get from Mekaiel)
 
 ### Contacted (Awaiting response)
 - [Name] - [Level] - [Stack] - Contacted: [Date] - Follow-up: [Date]
@@ -160,11 +160,17 @@
 
 ## Usage Notes
 
-1. **By tech stack:** Find developers for specific technology
-2. **By level:** Match developer to project complexity and budget
-3. **By availability:** Quick filter for who can start now
-4. **By complexity:** Match developer capability to project scope
-5. **Client-facing:** For projects where dev talks directly to client
-6. **Margin leaders:** Maximize profitability on standard projects
+1. **By automation type:** Find builders for specific automation needs (voice, CRM, email, etc.)
+2. **By platform:** Find specialists in specific tools (n8n, Make, Claude Code, etc.)
+3. **By level:** Match developer to project complexity and budget
+4. **By availability:** Quick filter for who can start now
+5. **By complexity:** Match developer capability to project scope
+6. **Client-facing:** For projects where dev talks directly to client
+7. **Margin leaders:** Maximize profitability on standard projects
+
+**Key for AI Automation Agency:**
+- Automation type > traditional tech stack
+- Platform expertise (n8n, Make) = specialized skill
+- Voice agents, CRM, RAG = high-demand specializations
 
 **Update this index every time you add a developer to maintain accuracy**

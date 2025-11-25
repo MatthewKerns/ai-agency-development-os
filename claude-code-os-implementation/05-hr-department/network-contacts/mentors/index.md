@@ -2,7 +2,7 @@
 
 **Quick Reference:** Find the right mentor for specific challenges
 
-**Total Mentors:** 0
+**Total Mentors:** 2
 **Last Updated:** 2025-11-25
 
 ---
@@ -10,23 +10,24 @@
 ## By Expertise Area
 
 ### Agency/Service Business
-- [Name] - [Specific expertise] - [Accessibility]
+- **Mekaiel** - AI audit approach, strategic focus, process-first methodology - Moderate (US Networking weekly)
 
 ### Sales & BD
 - [Name] - [Specific expertise] - [Accessibility]
 
 ### Technical/AI
-- [Name] - [Specific expertise] - [Accessibility]
+- **Mekaiel** - AI audits, knowledge capture, practical knowledge base design - Moderate
 
 ### Operations & Systems
-- [Name] - [Specific expertise] - [Accessibility]
+- **Ken Yung** - Process mapping, SME knowledge capture, client environment assessment - Moderate (US Networking)
 
 ---
 
 ## By Accessibility
 
 ### Highly Accessible (Easy to reach out to)
-- [Name] - [Expertise] - Best for: [What questions]
+- **Mekaiel** - US Networking weekly - Best for: AI audit approach, strategic focus, knowledge capture
+- **Ken Yung** - US Networking weekly - Best for: Process mapping, building practical knowledge bases
 
 ### Moderate (Need good reason to reach out)
 - [Name] - [Expertise] - Best for: [What questions]
@@ -38,10 +39,12 @@
 
 ## Quick Decision Guide
 
-**"I'm stuck on agency pricing"** → [Mentor Name]
-**"I need technical architecture advice"** → [Mentor Name]
-**"How do I scale past $50k/mo?"** → [Mentor Name]
-**"Should I hire or delegate?"** → [Mentor Name]
+**"How should I structure AI audit offerings?"** → Mekaiel
+**"How do I phase projects (audit vs implementation)?"** → Mekaiel
+**"I need help mapping client processes"** → Ken Yung
+**"How do I extract knowledge from SMEs?"** → Ken Yung
+**"Should I focus on one thing or diversify?"** → Mekaiel
+**"How do I build a knowledge base clients actually use?"** → Ken Yung
 
 ---
 

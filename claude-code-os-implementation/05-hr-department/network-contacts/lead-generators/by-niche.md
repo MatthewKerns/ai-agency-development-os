@@ -92,7 +92,117 @@
 
 ## Professional Services (Lawyers, Accountants, Consultants)
 
-> Add lead generators in professional services
+---
+### Trent Christopher
+**Met:** 2025-11-25 at US Networking Event
+**Role:** Sales Consultant / Business Advisor
+**Contact:** [LinkedIn/Email - need to get]
+**Location:** [City/Country - need to get]
+
+**Their Business:**
+Sales consulting - helps businesses build sales systems and processes
+
+**Niches They Work:**
+- Professional services (consultants, coaches, agencies)
+- Small-medium service businesses ($100k-$1M revenue range)
+- Business advisory/consulting clients
+
+**Networks They're In:**
+- US Networking weekly event
+- ISA groups (mentioned)
+- 2-hour AI workshops/events (runs them)
+- [Other groups - need to ask]
+
+**Deal Flow:**
+- **Quality:** High - works with business owners/decision-makers
+- **Volume:** Medium-High - estimates 5-10 active clients at a time
+- **Ticket Size:** $2,000-$8,000 per automation project (estimated based on client budgets)
+
+**Relationship Status:** Prospective
+- **Last Contact:** 2025-11-25 (met at event)
+- **Trust Level:** New
+- **Reciprocity:** Needs results and social proof - if we deliver, he'll refer more
+- **Commission Expectation:** Unknown - suggest 15-20% per project
+
+**What They Can Bring You:**
+- Clients needing automated proposal generation
+- Clients needing CRM automation and sales workflow tools
+- Clients needing RAG systems for document management
+- Clients needing email campaign automation
+- Clients needing technical manual processing
+- Database integration/trigger automation projects
+
+**What You Can Give Them:**
+- 2-week sprint projects that deliver clear results (his model)
+- AI automation builds that help his clients get efficient
+- Social proof / case studies he can use with future clients
+- Referral fee: 15-20% per project (to discuss)
+- Success guarantee approach (align with his "work until results" model)
+
+**Sales Style:**
+- Results-focused, commits to outcomes
+- Works with clients monthly, guarantees results
+- Direct, confident approach ("I will get you results, work til I do")
+- Alex Hormozi influence: "one person, one product, one avatar, one channel"
+- Short timelines (2-week sprints)
+- Focus on cash flow and social proof
+
+**Automation Needs His Clients Have:**
+- **Automated proposal generator** (mentioned first - priority)
+- **CRM agent** - log sales activities easily
+- **RAG systems** - "drop a document in and have a chat with it"
+- **Email campaigns** - "drop them all into an email campaign"
+- **Technical manuals processing**
+- **Quote processing triggers** - update database automatically
+- **"Workforce email"** (unclear - need to clarify)
+
+**Agency Fit:**
+- **Best for:** Quick automation projects (proposal gen, CRM automation, document RAG, email automation)
+- **Not good for:** Complex, long-timeline projects (wants 2-week sprints)
+- **Strategic Value:** **EXTREMELY HIGH** - steady flow of similar automation projects = repeatable revenue
+
+**Activation Plan:**
+- [x] Met at event
+- [ ] LinkedIn connection request with personalized note (reference event)
+- [ ] Draft follow-up email offering free pilot consultation
+- [ ] Offer pilot project: 2-week sprint, results-focused, guarantee approach
+- [ ] If pilot succeeds, discuss referral arrangement (15-20%)
+- [ ] Position as "your AI automation partner for client projects"
+- [ ] Set up monthly check-in call
+- [ ] Provide talking points document for his clients
+- [ ] Create case study template for social proof
+
+**Deal History:**
+- Deals brought: 0 (just met)
+- Revenue generated: $0
+- Close rate: N/A
+
+**Next Steps:**
+- [ ] PRIORITY: Connect on LinkedIn within 24 hours (2025-11-26)
+- [ ] Send follow-up email (2025-11-27)
+- [ ] Offer: "2-week sprint pilot for one of your clients - proposal automation or CRM workflow. If it doesn't deliver results, no charge. Then we discuss partnership."
+- [ ] Schedule call within 5 days
+- [ ] Prepare pilot project scoping template
+- [ ] Get names of his current clients (if he's willing to share)
+
+**Notes:**
+- **MET AT US NETWORKING 11/25**
+- **HIGHEST PRIORITY LEAD GENERATOR FROM US EVENT**
+- Very focused on RESULTS and social proof - perfect alignment
+- Mentioned Alex Hormozi's AI approach (direct, actionable, focused)
+- His clients = our target market (service businesses needing automation)
+- Fast decision maker, wants to move quickly
+- **IF WE DELIVER ON PILOT, COULD BECOME STEADY REFERRAL SOURCE**
+- Multiple automation types mentioned = diverse project pipeline potential
+- **FOLLOW UP FAST** - he values speed and results
+- "I always want to offer too much" - Mekaiel told him to focus, Hormozi model
+- Runs 2-hour vibe coding workshops - potential collaboration opportunity
+- ISA groups membership - another network to explore
+- "Not really sure if they want to try it but curious - bleeding edge of people warmed up"
+
+---
+
+> Add more lead generators in professional services
 
 ---
 
@@ -140,7 +250,114 @@
 
 ## Other Industries
 
-> Add lead generators in other niches
+---
+### Senthil
+**Met:** 2025-11-25 at US Networking Event
+**Role:** Networker / Community Connector
+**Contact:** [LinkedIn/Email - need to get]
+**Location:** [City/Country - need to get]
+
+**Their Business:**
+[Need to clarify - appears to be involved in community/networking]
+
+**Niches They Work:**
+- Community-based businesses
+- Referral network members
+- [Need to clarify specific industries]
+
+**Networks They're In:**
+- **BNI (Business Network International)** - https://www.bni.com/
+- US Networking weekly event
+- [Other networks - need to ask]
+
+**Deal Flow:**
+- **Quality:** High - BNI members are typically business owners/decision-makers
+- **Volume:** Medium-High - BNI is referral-based organization
+- **Ticket Size:** Unknown - varies by BNI member needs
+
+**Relationship Status:** Prospective
+- **Last Contact:** 2025-11-25 (met at event)
+- **Trust Level:** New
+- **Reciprocity:** Gives referrals within community (BNI model)
+- **Commission Expectation:** Unknown - BNI typically works on reciprocal referrals
+
+**What They Can Bring You:**
+- Access to BNI community members
+- Referrals within their network
+- Business owner connections (BNI focus)
+- Community-based introductions
+
+**What You Can Give Them:**
+- Referrals back to BNI members
+- AI automation services for their network
+- [More details needed on what they need]
+
+**Sales Style:**
+- Community/referral-based (BNI model)
+- Relationship-driven
+- "They give referrals for their own community"
+
+**Agency Fit:**
+- **Best for:** Gaining access to BNI network of business owners
+- **Not good for:** Unknown yet
+- **Strategic Value:** HIGH - BNI is established referral network with business owners
+
+**Networks Referenced:**
+- **BNI:** Major referral networking organization
+- **Gorilla AI:** Mentioned "voice AI guy" who is "surrounded by people" - potential contact or competitor
+- "Right forum to gain more clients"
+
+**Activation Plan:**
+- [ ] Connect and learn about BNI involvement
+- [ ] Understand BNI referral model
+- [ ] Ask about Gorilla AI contact (voice AI specialist in their network)
+- [ ] Explore BNI membership or partnership approach
+- [ ] Understand what services their community needs
+- [ ] Position for community referrals
+
+**Deal History:**
+- Deals brought: 0 (just met)
+- Revenue generated: $0
+- Close rate: N/A
+
+**Next Steps:**
+- [ ] Follow up - BNI is RIGHT FORUM FOR GAINING CLIENTS (their words)
+- [ ] Ask: How does BNI referral system work?
+- [ ] Ask: What types of businesses in your BNI chapter?
+- [ ] Ask: Gorilla AI contact details (voice AI guy)
+- [ ] Ask: How to best position services for BNI members
+- [ ] Explore BNI membership or guest attendance
+- [ ] Reciprocal referral arrangement discussion
+
+**Notes:**
+- **MET AT US NETWORKING 11/25**
+- BNI community access = HIGH VALUE (established referral network)
+- "They give referrals for their own community" = reciprocal model
+- **Gorilla AI mentioned** - voice AI guy "surrounded by people" (potential competitor OR partner)
+- "Right forum to gain more clients" = direct market signal
+- BNI model = business owners helping business owners
+- Strategic opportunity: BNI chapter access = multiple business owner connections
+- Need more details on their specific role/business
+- Follow up to understand BNI chapter composition and needs
+
+**BNI Research Notes:**
+- BNI = Business Network International
+- Referral-based networking organization
+- Members give/receive referrals
+- Typically one person per industry/specialty per chapter
+- Business owners and decision-makers
+- Structured meeting format
+- Could be valuable lead source
+
+**Gorilla AI Reference:**
+- Voice AI specialist
+- "Surrounded by people" = well-connected or busy
+- Unknown if competitor, potential partner, or referral source
+- Need to investigate further
+
+---
+
+> Add more lead generators in other niches
 
 ---
 

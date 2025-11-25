@@ -2,7 +2,7 @@
 
 **Quick Reference:** Find the right person to bring you deals in specific niches or networks
 
-**Total Lead Generators:** 0
+**Total Lead Generators:** 2
 **Last Updated:** 2025-11-25
 
 ---
@@ -61,10 +61,39 @@
 
 ---
 
+## By Lead Generation Tactics
+**"How do they get clients?"**
+
+### Warm Outreach Specialists
+- [Name] - [Approach] - [Success rate]
+
+### Event/In-Person Networkers
+- **Trent Christopher** - US Networking weekly, ISA groups, 2hr AI workshops - 5-10 active clients
+
+### Content Creators (Inbound)
+- [Name] - [Platform] - [Audience size] - [Lead flow]
+
+### Referral Network Builders
+- **Senthil** - BNI (Business Network International) - HIGH VALUE (business owner network)
+- **Trent Christopher** - US Networking, ISA groups - 5-10 client pipeline
+
+### Cold Outreach/Automation
+- [Name] - [Systems] - [Results]
+
+### Community/Forum Access
+- **Senthil** - BNI community - HIGH VALUE (referral-based, business owners)
+- **Ken Yung** - Chamber of Commerce - Local business connections
+
+### Partnership/White Label
+- **Mekaiel** - AI audit + implementation model - Phase 1 (audit) + Phase 2 (implement)
+
+---
+
 ## By Relationship Stage
 
 ### Prospective (Not yet contacted)
-- [Name] - [Niche] - Message drafted: [Yes/No] - Outreach planned: [Date]
+- **Trent Christopher** - Professional Services - HIGH PRIORITY - 5-10 clients, multiple automation needs - Outreach: 2025-11-26
+- **Senthil** - BNI/Community Access - HIGH PRIORITY - BNI network, referral model - Outreach: 2025-11-26
 
 ### Contacted (Awaiting response)
 - [Name] - [Niche] - Contacted: [Date] - Follow-up: [Date]

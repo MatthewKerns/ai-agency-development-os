@@ -7,11 +7,15 @@
 
 ---
 
-## Quick Stats
-- **Frontend:** 0
-- **Backend:** 0
-- **Full Stack:** 0
-- **Mobile:** 0
+## Quick Stats by Automation Type
+- **Voice Agents:** 0
+- **CRM Automation:** 0
+- **Email/Campaigns:** 0
+- **RAG Systems:** 0
+- **Document Processing:** 0
+- **Workflow Automation:** 0
+- **n8n Specialists:** 0
+- **Make.com Specialists:** 0
 - **Available for work:** 0
 
 ---
@@ -27,21 +31,27 @@
 **Location:** [City/Country] | **Timezone:** [TZ]
 **Availability:** [Full-time / Part-time / Contract / Not available]
 
-**Primary Stack:**
-- [e.g., React, Node.js]
-- [Second main technology]
+**Automation Expertise:**
+- **Types:** [e.g., CRM automation, email campaigns, voice agents, RAG, etc.]
+- **Platforms:** [e.g., n8n, Make.com, Zapier, Claude Code, etc.]
+- **Specialization:** [e.g., "Voice agent builder", "CRM specialist", "Workflow automation"]
 
 **What They've Built:**
-- [Project 1 - brief description]
-- [Project 2 - brief description]
-- [Portfolio link if available]
+- [Automation project 1 - type, platform, outcome]
+- [Automation project 2 - type, platform, outcome]
+- [Portfolio/Demo link if available]
 
 **Strengths:**
-- [What they're good at]
-- [Another strength]
+- [What automation types they excel at]
+- [Platform expertise]
+- [Client-facing ability]
 
 **Learning/Growing In:**
-- [What they're currently learning]
+- [New automation types they're learning]
+- [New platforms/tools]
+
+**Traditional Stack (if relevant):**
+- [Languages/frameworks only if custom coding - e.g., Python, Node.js]
 
 **Rate/Budget:**
 - Hourly: $[X]/hr or Unknown

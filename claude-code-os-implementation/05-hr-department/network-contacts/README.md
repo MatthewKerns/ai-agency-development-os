@@ -5,10 +5,59 @@ Strategic contact management system for building an AI automation agency. Track 
 
 ---
 
+## The Networking Funnel: Raw Notes → Structured Contacts
+
+```
+┌─────────────────────────────────────────────────────┐
+│  NETWORKING EVENT (EU/US weekly events)             │
+│  Take raw notes → raw-notes/YYYY-MM-DD-event.md    │
+└────────────────────┬────────────────────────────────┘
+                     ↓
+┌─────────────────────────────────────────────────────┐
+│  PROCESSING (Within 24 hours)                       │
+│  • Categorize each contact                          │
+│  • Add to appropriate category file                 │
+│  • Update index files                               │
+│  • Draft follow-up messages                         │
+└────────────────────┬────────────────────────────────┘
+                     ↓
+┌─────────────────────────────────────────────────────┐
+│  FOLLOW-UP (Day after processing)                   │
+│  • Send personalized messages                       │
+│  • Update to "Contacted" status                     │
+│  • Set follow-up reminders                          │
+└────────────────────┬────────────────────────────────┘
+                     ↓
+┌─────────────────────────────────────────────────────┐
+│  RELATIONSHIP BUILDING (Ongoing)                    │
+│  • Track conversations                              │
+│  • Update relationship status                       │
+│  • Activate partnerships                            │
+└─────────────────────────────────────────────────────┘
+```
+
+### Quick Start for Networking Events
+
+1. **During/After Event:** Dump raw notes in `raw-notes/YYYY-MM-DD-event-name.md`
+2. **Next Day:** Process using `raw-notes/PROCESSING-WORKFLOW.md`
+3. **2 Days After:** Send all follow-up messages
+4. **Weekly:** Review and reactivate dormant contacts
+
+**See:** `raw-notes/PROCESSING-WORKFLOW.md` for detailed step-by-step guide
+**Example:** `raw-notes/EXAMPLE-PROCESSED-CONTACT.md` for full walkthrough
+
+---
+
 ## Directory Structure
 
 ```
 network-contacts/
+├── raw-notes/               # 🆕 Start here! Raw networking notes
+│   ├── TEMPLATE.md          # Template for new event notes
+│   ├── PROCESSING-WORKFLOW.md  # Step-by-step processing guide
+│   ├── EXAMPLE-PROCESSED-CONTACT.md  # Full example walkthrough
+│   ├── YYYY-MM-DD-event-name.md  # Your raw notes (unprocessed)
+│   └── YYYY-MM-DD-event-name-PROCESSED.md  # Completed processing
 ├── developers/              # P2 Priority - Delegation capability
 │   ├── junior-developers.md
 │   ├── mid-level-developers.md
@@ -158,24 +207,36 @@ Every contact has a **Relationship Status** field to track where they are in you
 
 ## Weekly Workflow
 
-### After Every Networking Event
+### After Every Networking Event (Use the Funnel!)
 
-1. **Same Day: Categorize & Add**
-   - Developers → `developers/[level].md`
-   - Potential sales partners → `lead-generators/by-niche.md` or `by-network.md`
-   - Mentors → `mentors/[type].md`
-   - Content creators → `content-creators/by-expertise.md`
-   - Everyone else → `general-contacts.md`
+1. **Same Day: Capture Raw Notes**
+   - Create file: `raw-notes/YYYY-MM-DD-event-name.md`
+   - Use the TEMPLATE.md
+   - Dump everything - names, pain points, ideas discussed
+   - Don't filter, just capture
 
-2. **Next Day: Follow Up**
-   - Send personalized connection messages
+2. **Next Day (Within 24 Hours): Process**
+   - Follow `raw-notes/PROCESSING-WORKFLOW.md` step-by-step
+   - Categorize each contact:
+     - Developers → `developers/[level].md`
+     - Potential sales partners → `lead-generators/by-niche.md` or `by-network.md`
+     - Mentors → `mentors/[type].md`
+     - Content creators → `content-creators/by-expertise.md`
+     - Everyone else → `general-contacts.md`
    - Update index files for quick lookup
-   - Add to daily plan for specific follow-up tasks
+   - Draft follow-up messages for high-priority contacts
+   - Mark raw notes file as PROCESSED
 
-3. **Weekly: Review**
+3. **2 Days After Event: Execute Follow-Ups**
+   - Send personalized connection messages
+   - Update contacts to "Contacted" status
+   - Set follow-up reminders (3-5 days if no response)
+
+4. **Weekly: Review & Maintain**
    - Check pending follow-ups
+   - Follow up with non-responders
    - Move conversations forward
-   - Update relationship status
+   - Update relationship statuses
    - Activate high-value relationships
 
 ---
