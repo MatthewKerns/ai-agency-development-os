@@ -2,7 +2,7 @@
 
 **Purpose:** Quick reference for learning and partnership opportunities
 
-**Total Tracked:** 1
+**Total Tracked:** 2
 **Last Updated:** 2025-11-25
 
 ---
@@ -15,7 +15,7 @@
 3. [Creator] - [Platform] - [Why valuable]
 
 ### For AI/Automation
-1. [Creator] - [Platform] - [Why valuable]
+1. **Sway Clarke** - YouTube (planned faceless channel) - Content strategy: "Document process, not just builds" to attract business owners
 2. [Creator] - [Platform] - [Why valuable]
 
 ### For Sales/Business

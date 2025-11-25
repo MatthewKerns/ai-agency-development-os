@@ -14,6 +14,7 @@ coaching-call-notes/
 ├── PROCESSING-WORKFLOW.md             # How to process coaching calls
 ├── TEMPLATE.md                        # Template for each call note
 ├── raw-notes/                         # Fathom summaries & transcripts
+│   ├── README.md
 │   ├── YYYY-MM-DD-coach-name.md      # Raw Fathom export
 │   └── YYYY-MM-DD-coach-name-PROCESSED.md
 ├── by-coach/                          # Organized by coach
@@ -21,10 +22,10 @@ coaching-call-notes/
 │   ├── denis-daigle.md               # All Denis sessions
 │   └── [other-coaches].md
 └── by-topic/                          # Organized by strategic topic
-    ├── pricing-strategy.md
+    ├── agency-growth.md
     ├── client-delivery.md
-    ├── developer-management.md
-    └── agency-growth.md
+    ├── pricing-strategy.md
+    └── developer-management.md
 ```
 
 ---
@@ -52,11 +53,13 @@ coaching-call-notes/
 **Expertise:** [TBD - fill in from coaching calls]
 **Best for:** [TBD]
 **Coaching calls:** See `by-coach/richard.md`
+**Status:** Need to book first call TODAY
 
 ### Denis Daigle
 **Expertise:** [TBD - fill in from coaching calls]
 **Best for:** [TBD]
 **Coaching calls:** See `by-coach/denis-daigle.md`
+**Status:** Have Fathom notes to upload
 
 ---
 
@@ -147,6 +150,15 @@ After each coaching call:
 2. Block time for implementation
 3. Set follow-up reminder to report results (if applicable)
 4. Update strategic priorities if guidance changes direction
+
+---
+
+## Pending Actions
+
+**Today (2025-11-25):**
+- [ ] Book Richard coaching call
+- [ ] Upload Denis Daigle Fathom notes to raw-notes/
+- [ ] Process Denis Daigle notes within 24 hours
 
 ---
 
