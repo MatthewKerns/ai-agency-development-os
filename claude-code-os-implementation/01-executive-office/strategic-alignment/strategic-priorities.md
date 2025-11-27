@@ -47,6 +47,7 @@ All work must drive toward this. Everything else is deferred.
 - [ ] Create scoping/pricing templates
 - [ ] Build developer evaluation criteria
 - [ ] Establish margin protection standards
+- [ ] **Meeting note capture system** - for review during/right after meetings (enables faster decision-making and follow-through)
 
 ---
 
@@ -59,6 +60,7 @@ All work must drive toward this. Everything else is deferred.
 - [ ] Negotiate rates
 - [ ] Establish delivery standards
 - [ ] Document what "good" looks like
+- [ ] **Discord code sessions Q&A** - document everything in real-time (adopt Mikael's system) → leads developers to be able to replicate your work
 
 ---
 
@@ -71,6 +73,7 @@ All work must drive toward this. Everything else is deferred.
 - Build tutorials with real case studies
 - Scoping and estimation training
 - Cost-based pricing education
+- **Documentation pipeline** - Discord sessions → documented processes → academy content (capture live problem-solving as training material)
 
 *Developers learn → trust you → want projects → feed into ecosystem*
 

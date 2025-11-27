@@ -32,18 +32,47 @@ coaching-call-notes/
 
 ## Quick Start
 
-1. **After coaching call:** Export Fathom summary + transcript
+### The Fathom Link Flow
+
+```
+1. Coaching call ends
+   ↓
+2. IMMEDIATELY send Fathom link to coach (courtesy + accountability)
+   ↓
+3. Export Fathom summary + transcript
+   ↓
+4. Save to raw-notes/YYYY-MM-DD-coach-name.md
+   ↓
+5. Process with Claude within 24 hours
+   ↓
+6. Extract: Action items, Roadmap additions, Insights
+   ↓
+7. Prioritize: 🔴 Urgent → Daily plan | 🟡 Important → This week | 🟢 Strategic → Monthly
+   ↓
+8. Schedule important items in calendar
+   ↓
+9. Mark as PROCESSED
+```
+
+### Detailed Steps
+
+1. **After coaching call:** Send Fathom link to coach, export summary + transcript
 2. **Save to:** `raw-notes/YYYY-MM-DD-coach-name.md`
 3. **Process within 24 hours** (see PROCESSING-WORKFLOW.md)
 4. **Extract:**
    - Key insights
-   - Action items
+   - Action items (categorized by urgency)
    - Strategic guidance
+   - Roadmap additions
    - Decisions made
-5. **Add to:**
+5. **Prioritize & Schedule:**
+   - 🔴 Urgent items → Add to today's/tomorrow's daily plan
+   - 🟡 Important items → Schedule specific day this week
+   - 🟢 Strategic items → Add to monthly objectives
+6. **Add to:**
    - `by-coach/[coach-name].md` (chronological record)
    - `by-topic/[relevant-topic].md` (thematic organization)
-6. **Mark as processed:** Rename to `YYYY-MM-DD-coach-name-PROCESSED.md`
+7. **Mark as processed:** Rename to `YYYY-MM-DD-coach-name-PROCESSED.md`
 
 ---
 
@@ -155,11 +184,36 @@ After each coaching call:
 
 ## Pending Actions
 
-**Today (2025-11-25):**
+**As of 2025-11-27:**
 - [ ] Book Richard coaching call
 - [ ] Upload Denis Daigle Fathom notes to raw-notes/
 - [ ] Process Denis Daigle notes within 24 hours
 
 ---
 
-**Last Updated:** 2025-11-25
+## Claude Processing Prompt
+
+Use this prompt when processing coaching calls with Claude:
+
+```
+Process these coaching call notes and extract:
+
+1. **KEY INSIGHTS** - Strategic guidance, mental models, frameworks
+
+2. **ACTION ITEMS** - List each with:
+   - Task description
+   - Priority: 🔴 Urgent (today/tomorrow), 🟡 Important (this week), 🟢 Strategic (this month)
+   - First step to take
+
+3. **ROADMAP ADDITIONS** - Ideas/initiatives to add to strategic priorities
+
+4. **DECISIONS MADE** - What was decided and why
+
+5. **FOLLOW-UP QUESTIONS** - Things to research or ask next time
+
+[PASTE FATHOM NOTES HERE]
+```
+
+---
+
+**Last Updated:** 2025-11-27
