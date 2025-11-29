@@ -2,7 +2,7 @@
 
 ## THE ONE THING: Close AntSavvy Deal Before Christmas
 
-**Revenue Target:** $3k-8k (first client, momentum builder toward $50k/mo OBG)
+**Revenue Target:** TBD based on ROI (first client, momentum builder toward $50k/mo OBG)
 **Timeline:** Ship MVP by Dec 15, close by Dec 25
 **Why P0:** Real client, real pain, real urgency. Speed = trust = revenue.
 
@@ -86,20 +86,34 @@ n8n workflow that:
 
 ## Pricing Strategy (Architect Hat On)
 
-### Option 1: MVP Pilot
-- **Price:** $3k one-time setup + $500/mo for 3 months
-- **Total:** $4.5k (validates before Christmas)
-- **Pitch:** "Pilot program, we refine based on your usage"
+### Status: TBD - Awaiting ROI Data
 
-### Option 2: Full Setup
-- **Price:** $5k setup + $800/mo ongoing
-- **Total:** $7.4k first quarter
-- **Pitch:** "Production system with ongoing optimization"
+**Why TBD:**
+- Pricing based on VALUE DELIVERED, not development hours
+- Need to quantify actual ROI for AntSavvy before pricing
+- Must understand their current cost of the problem
 
-### Margin Protection
-- Developer cost: $1.5k (if you delegate n8n build)
-- Your margin: $1.5k-3.5k (50-70%)
-- Linh's cut: 10-20% of setup fee
+**Data Needed Before Pricing:**
+- [ ] Current monthly losses from missed requirements ($50k example per project?)
+- [ ] Number of projects per month affected
+- [ ] Hours spent per week on manual email workflows (accounts team)
+- [ ] Average project value and margins
+- [ ] Cost per hour of accounts team time
+- [ ] Time savings from faster requirement capture
+
+**Value-Based Pricing Framework (Once Data Collected):**
+```
+If we save them $10k/month → Charge $2-3k/month (20-30% of monthly value)
+If we save them $5k/month → Charge $1-1.5k/month (20-30% of monthly value)
+
+Setup fee: 3-5x monthly recurring
+Example: $10k/mo savings = $2.5k/mo + $10k setup = $17.5k first quarter
+```
+
+**Margin Protection:**
+- Target: 50-70% margin after all costs
+- Development cost: Estimate after scoping (likely $500-2k for n8n MVP)
+- Sales commission: Factor into total price, not margin calculation
 
 ---
 
@@ -126,7 +140,7 @@ n8n workflow that:
 ### By Dec 25 (Deal Close)
 - [ ] Client using system daily
 - [ ] Manual review process established
-- [ ] Payment collected ($3k-8k)
+- [ ] Payment collected (TBD based on ROI pricing)
 - [ ] Testimonial/demo recorded
 
 ### By Jan 15 (Iteration Complete)
@@ -165,7 +179,7 @@ Speed to 0→1 = foot in door = revenue before Christmas
 
 ## Next Actions (Right Now)
 
-1. **TODAY:** Confirm with Linh/AntSavvy that Dec 15 MVP is acceptable
+1. **TODAY:** Confirm with AntSavvy that Dec 15 MVP is acceptable
 2. **THIS WEEKEND:** Vibe code n8n workflow (4-8 hours)
 3. **NEXT WEEK:** Test with sample scenarios, refine prompts
 4. **DEC 15:** Ship to client
@@ -180,9 +194,9 @@ Speed to 0→1 = foot in door = revenue before Christmas
 | Does this move us toward $50k/mo OBG? | YES (first client, momentum) |
 | Are you being the Architect? | YES (prototype → scope → delegate if needed) |
 | Is speed prioritized over perfection? | YES (MVP by Dec 15) |
-| Are margins protected? | YES ($3k-8k, 50-70% margin) |
+| Are margins protected? | YES (50-70% margin target, pricing TBD based on value) |
 | Is this P0 (revenue NOW)? | YES (payment before Christmas) |
 
 ---
 
-**Bottom Line:** This is THE deal to close before Christmas. Speed wins. Ship barebones, get payment, iterate. You're the Architect—prototype and scope, don't grind production. $3k-8k before Dec 25 = momentum toward OBG.
+**Bottom Line:** This is THE deal to close before Christmas. Speed wins. Ship barebones, get payment, iterate. You're the Architect—prototype and scope, don't grind production. Price based on value delivered (collect ROI data first), close before Dec 25 = momentum toward OBG.
