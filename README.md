@@ -96,7 +96,7 @@ ai-agency-development-os/
 ## The Agency Flow
 
 ```
-1. Linh/Mikael bring lead
+1. Sales side brings lead
    ↓
 2. You run diagnostic call (BILLABLE: $200-500/hr)
    ↓
