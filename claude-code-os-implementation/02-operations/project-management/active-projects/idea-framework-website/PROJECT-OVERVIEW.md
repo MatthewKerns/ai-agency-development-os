@@ -1,10 +1,12 @@
-# Project: Trevor Brand Consultation Automation
+# Project: IDEA Framework Website (Brand Consultation Automation)
 
 ## Overview
-**Client:** Trevor
+**Client:** client Bradford (Brandvoice)
+**Project Name:** IDEA Framework Website
 **Type:** Client Project (P0 - Revenue)
 **Status:** Active - Build Phase
 **Priority:** P0 - Revenue generating
+**Codebase:** ~/workspace/idea-brand-coach
 
 ---
 
@@ -20,69 +22,103 @@
 **Invoice Status:** Sent Nov 28, payment processing via bank (2-3 days estimated)
 **Expected Payment:** Dec 2-3, 2025
 
-### Phase 2 (Second $500) - QUEUED
+### Phase 2 (Second $500) - ACTIVE
 **Scope:**
-- Chat thread history enabled
-- Improved PDF exports
-- Updated privacy messaging
+- ✅ Chat thread history enabled (90% complete, shown in demo)
+- ✅ Copy/download conversation buttons (added Nov 28)
+- End-to-end testing (diagnostic → auth → chat flow)
+- Improved PDF exports (markdown formatting, remove broken logo)
+- Updated privacy messaging across all instances
 - Final walkthrough testing
+
+**Detailed Plan:** See `/idea-framework-website/P0-PHASE-2.md`
+**Estimated Effort:** 5-6 hours
+**Target Start:** Dec 3, 2025
+**Target Delivery:** Dec 5-6, 2025
 
 **Payment Status:** [ ] Delivered [ ] Invoiced [ ] Collected $500
 
 ### Phase 3 (Third $1000) - SCOPED
 **Scope:**
-- Advanced brand strategy automation
-- Copy templates and generation workflows
-- Brand voice consistency checker
-- Client brand portal enhancements
+- Training video integration (external links to Mastermind.com)
+- Document upload system (NotebookLM prompts for pre-fill)
+- Beta paywall page (UI only, bypass payment for beta testers)
+- Advanced Canvas export (research Gamma vs Google Docs)
+- Cost analysis and pricing strategy
+- Beta tester questionnaire
+- Coach review session
+
+**Detailed Roadmap:** See `/idea-framework-website/P1-PHASE-3-ROADMAP.md`
+**Estimated Effort:** 20-29 hours
+**Target Start:** Dec 9, 2025
+**Target Delivery:** Dec 16-20, 2025
 
 **Payment Status:** [ ] Delivered [ ] Invoiced [ ] Collected $1000
 
 ### Phase 4 (Fourth $1000) - PLANNED
 **Scope:**
-- Integration with external tools (social media, email platforms)
-- Analytics and reporting dashboard
-- Automated brand asset library
-- Template marketplace integration
+- Stripe payment integration (production launch)
+- Subscription management (billing, cancellations, receipts)
+- User dashboard (usage stats, payment history)
+- Production hosting migration (if needed from Lovable)
+- Email notification system
+
+**Estimated Effort:** 15-20 hours
+**Target Delivery:** Early January 2026
 
 **Payment Status:** [ ] Delivered [ ] Invoiced [ ] Collected $1000
 
 ### Phase 5 (Fifth $1000) - IDEAS
 **Potential Scope:**
-- White-label capability for Trevor's clients
-- AI-powered brand audit automation
-- Competitor analysis integration
-- Custom brand training module
+- System knowledge base (client's documents + IDEA Framework)
+- Personalized AI training (learn from user interactions)
+- Copy Generator v2 (templates, tone variations)
+- Brand asset library (logo storage, color palettes)
+- Export to Canva integration
+
+**Estimated Effort:** 20-25 hours
+**Target Delivery:** Late January 2026
 
 **Payment Status:** [ ] Delivered [ ] Invoiced [ ] Collected $1000
 
 ### Phase 6+ (Future $1000/chunk)
 **Expansion Ideas:**
-- Mobile app integration
-- Team collaboration features
-- Advanced analytics and insights
-- Industry-specific brand templates
+- Community feature (Mastermind.com integration)
+- Collaborative brand building (teams)
+- Titan AI integration (licensing opportunity)
+- White-label version for Titan members
+- Admin panel for client (user analytics)
+- Mobile app development
 
-| Item | Current Total | Status |
-|------|---------------|--------|
-| Phase 1 | $500 | Invoiced Nov 28 |
-| Phase 2 | $500 | Queued |
-| Phase 3 | $1000 | Scoped |
-| Phase 4 | $1000 | Planned |
-| Phase 5 | $1000 | Ideas |
-| **Total Potential** | **$4000** | Progressive delivery |
+| Item | Current Total | Effort (hrs) | Status |
+|------|---------------|--------------|--------|
+| Phase 1 | $500 | ~12 | Invoiced Nov 28 |
+| Phase 2 | $500 | ~6 | Active (Dec 3-6) |
+| Phase 3 | $1000 | ~24 | Scoped (Dec 9-20) |
+| Phase 4 | $1000 | ~18 | Planned (Jan 2026) |
+| Phase 5 | $1000 | ~22 | Ideas (Jan 2026) |
+| **Total Potential** | **$4000** | **~82 hrs** | **Progressive delivery** |
 
-**Margin:** 100% (self-built)
-**Reference:** Fathom recording + notes from last call
+**Margin:** 100% (self-built Phases 1-3), 40-50% (delegated Phase 4+)
+**Average Hourly:** $48/hr (self-built), effective $100/hr (with delegation)
+**Reference:** See `/idea-framework-website/` directory for detailed phase docs
 **Phased Delivery Strategy:** Lock in $500-1000 chunks, deliver incrementally, collect progressively
+
+**Key Documents:**
+- Phase 2 P0: `/idea-framework-website/P0-PHASE-2.md` (5-6 hours, $500)
+- Phase 3 Roadmap: `/idea-framework-website/P1-PHASE-3-ROADMAP.md` (20-29 hours, $1000)
+- Meeting Transcript: `/idea-framework-website/NOV-28-MEETING-TRANSCRIPT.md` (85 min recording)
 
 ---
 
-## Automation Description
-Brand consultations and copy generation automation:
-- Consultation workflow automation
-- Copy generation assistance
-- Brand asset management
+## Project Description
+IDEA Framework brand consultation platform for client Bradford:
+- Automated brand diagnostic (IDEA Framework)
+- AI-powered Brand Coach (RAG-enabled GPT-4)
+- Brand Canvas generation
+- Copy generation and templates
+- Training videos and onboarding
+- Subscription-based SaaS model
 
 ---
 
@@ -167,7 +203,7 @@ Brand consultations and copy generation automation:
    - [ ] Confirm receipt and update records
 
 5. **Initiate Phase 2 discussion**
-   - [ ] Present Phase 2 scope to Trevor
+   - [ ] Present Phase 2 scope to client
    - [ ] Get approval for Phase 2 deliverables
    - [ ] Schedule Phase 2 kickoff
 
@@ -194,7 +230,7 @@ Brand consultations and copy generation automation:
 9. **Scale to Phase 3 and beyond**
    - [ ] Begin Phase 3 build
    - [ ] Map Phase 4 detailed scope
-   - [ ] Explore Phase 5 ideas with Trevor
+   - [ ] Explore Phase 5 ideas with client
    - [ ] Position for ongoing $1000/phase relationship
 
 ---
@@ -216,35 +252,61 @@ Brand consultations and copy generation automation:
 - Expected payment: Dec 2-3, 2025
 - Fathom recording with action items exists
 
-**Fathom Recording:** [Link to be added]
+**Fathom Recording:** https://fathom.video/share/Jpi9W9zz6dWcXBk3fLsdzj4kv8cwCvUH
 
-**Action Items from Fathom (To Be Extracted):**
-1. [Action item 1]
-2. [Action item 2]
-3. [Action item 3]
-4. [Action item 4]
-5. [Action item 5]
+**Full Transcript:** See `/idea-framework-website/NOV-28-MEETING-TRANSCRIPT.md`
 
-**Phase 1 Completion Checklist (Based on Fathom):**
-- [ ] [Specific deliverable 1]
-- [ ] [Specific deliverable 2]
-- [ ] [Specific deliverable 3]
+**Action Items from Fathom (14 total):**
 
-**Phase 2 Scope Adjustments (Based on Fathom):**
-- [Adjustment 1]
-- [Adjustment 2]
+**Phase 2 Items ($500):**
+1. ✅ Chat sessions feature (shown in demo, needs final testing)
+2. ✅ Copy/download conversation buttons (added Nov 28)
+3. Test Phase 1 end-to-end; start new brand
+4. Improve Canvas PDF export w/ Markdown; remove logo; test
+5. Update privacy statement across instances
+6. Send Fathom recording link to client
+
+**Phase 3 Items ($1000):**
+7. Research Gamma/Google Docs for Canvas export
+8. Draft NotebookLM prompts for brand doc pre-fill
+9. Prototype training video UI (link vs embed); send demo
+10. Build beta paywall page; enable free-tier upgrade
+11. Draft beta tester questionnaire incl. pricing feedback
+12. Provide client monthly hosting/AI cost estimates
+13. Schedule coach review of client's project
+
+**Administrative:**
+14. Pay Matt via new link; then Matt merges Phase 1
+15. Confirm Lovable cancellation/pause policy (by Dec 1)
+
+**Phase 1 Completion Status:**
+- ✅ Data storage working across all fields
+- ✅ Chatbot retrieves and uses stored data correctly
+- ✅ Pages arranged per specifications
+- ⏳ Internal QA testing (in progress)
+- ⏳ client end-to-end testing (after merge)
+
+**Phase 2 Scope (Confirmed in Call):**
+- Chat thread history (90% done, shown in demo)
+- PDF export improvements (markdown, remove logo)
+- Privacy messaging updates
+- End-to-end testing and bug fixes
 
 **Client Feedback:**
-- [Feedback point 1]
-- [Feedback point 2]
+- "Really like the clear conversation button"
+- Chat sidebar looks great, impressed by auto-title feature
+- Training videos are high priority (ElevenLabs/HeyGen ready)
+- Concerned about AI output quality without system knowledge base
+- Want simple PDF export for MVP (don't over-engineer)
+- Prefer subscription model (not one-time payment)
 
-**Next Call Scheduled:** [Date/Time]
+**Next Call Scheduled:** TBD (after Phase 2 delivery)
 
 ---
 
-### Phased Delivery Value Proposition for Trevor
+### Phased Delivery Value Proposition
 
-**Why Phased Delivery Works for Trevor:**
+**Why Phased Delivery Works:**
 
 1. **Lower Risk** - Test Phase 1 before committing to full build
 2. **Cash Flow Friendly** - $500-1000 chunks vs $5000 upfront
