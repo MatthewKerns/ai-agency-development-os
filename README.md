@@ -2,7 +2,7 @@
 
 > **[Get Started: Setup and Installation Guide](docs/SETUP-AND-INSTALLATION.md)**
 
-A [Claude Code Operating System](https://github.com/MatthewKerns/claude-code-os/) for running an AI automation agency. 
+A [Claude Code Operating System](https://github.com/MatthewKerns/claude-code-os/) for running an AI automation agency.
 
 
 ## Overview
@@ -10,6 +10,20 @@ A [Claude Code Operating System](https://github.com/MatthewKerns/claude-code-os/
 AI Agency Development OS is a comprehensive system built on 13 core productivity principles, organized into 5 specialized departments designed to help you build and scale an AI automation agency to **$50k/month revenue**.
 
 Built for the **Architect** - not a coder-for-hire, but the strategic leader who diagnoses, prototypes, scopes, prices, delegates, and manages.
+
+### Current Status (November 29, 2025)
+
+**Active Projects:**
+- **AntSavvy** - AI accounts assistant (P0: Close before Christmas)
+- **Trevor** - Brand consultation automation (Delivery phase)
+- **Linh** - Invoice automation / chatbot (Demo phase)
+
+**Recent Enhancements:**
+- Client project tracking system with dedicated folders
+- LinkedIn content growth engine (3x/week publishing schedule)
+- Fathom integration for meeting transcripts
+- Developer Academy foundation (dev-coach submissions)
+- Value-based pricing framework
 
 
 ### Core Philosophy
@@ -39,18 +53,41 @@ ai-agency-development-os/
 ├── README.md                         # This file
 └── claude-code-os-implementation/
     ├── 01-executive-office/          # Planning & strategic alignment
-    │   ├── strategic-alignment/      # OBG, priorities, objectives
+    │   ├── strategic-alignment/      # OBG, priorities, objectives, P0-P5 roadmap
     │   ├── agents/                   # Daily planner, weekly strategist
-    │   └── daily-planning/           # Templates, logs, quick commands
+    │   ├── daily-planning/           # Templates, logs, quick commands
+    │   ├── internal-business-meetings/ # Team meeting notes & decisions
+    │   └── automation/               # Executive automation workflows
     ├── 02-operations/                # Productivity & project management
     │   ├── productivity-assessment/  # Daily/weekly scoring
-    │   ├── project-management/       # Active client projects
-    │   └── metrics-tracking/         # Revenue & pipeline dashboards
+    │   ├── project-management/       # Client project tracking
+    │   │   ├── active-projects/      # Live client work
+    │   │   │   ├── antsavvy/         # Client folders with full context
+    │   │   │   ├── linh-invoicing-automation.md
+    │   │   │   └── trevor-brand-consultation.md
+    │   │   ├── completed-projects/   # Finished work
+    │   │   ├── incubated-projects/   # Future opportunities
+    │   │   └── agents/               # Project management automation
+    │   ├── metrics-tracking/         # Revenue & pipeline dashboards
+    │   └── reports/                  # Performance reports
     ├── 03-ai-growth-engine/          # Strategic framework & positioning
-    ├── 04-content-team/              # Demo videos & credibility assets
-    ├── 05-hr-department/             # Developer recruitment & academy
+    │   └── development-framework/    # Business development resources
+    ├── 04-content-team/              # Content & credibility assets
+    │   ├── linkedin-content/         # 3x/week publishing system
+    │   │   ├── posts/                # Scheduled LinkedIn posts
+    │   │   ├── process-docs/         # Deep process documentation
+    │   │   └── infographics/         # NotebookLM-generated visuals
+    │   └── linkedin-content-code-fundamentals/ # Technical content
+    ├── 05-hr-department/             # Developer recruitment & training
+    │   ├── dev-coach-submissions/    # Developer Academy applications
+    │   ├── fathom-integration/       # Meeting transcript processing
+    │   └── network-contacts/         # Developer network management
     ├── 06-knowledge-base/            # 13 principles & frameworks
+    │   └── core-principles/          # Foundation documents
     ├── 07-workflows/                 # Daily/weekly/monthly routines
+    │   ├── daily-routines/
+    │   ├── weekly-routines/
+    │   └── monthly-routines/
     ├── 08-technical-architecture/    # System design & integrations
     ├── 09-templates/                 # Agent creation & examples
     └── 10-implementation-roadmap/    # Phased rollout plan
@@ -78,14 +115,16 @@ ai-agency-development-os/
 
 ## Priority Hierarchy
 
-| Priority | Focus | Status |
-|----------|-------|--------|
-| P0 | Revenue (close deals, deliver, collect) | ACTIVE |
-| P1 | Agency infrastructure (roles, splits, templates) | ACTIVE |
-| P2 | Developer pipeline (recruit, evaluate) | Building |
-| P3 | Developer Academy (long-term moat) | Foundation |
-| P4 | Credibility assets (demos that close deals) | As needed |
-| P5 | Content/inbound scaling | DEFERRED until OBG |
+**See full roadmap:** [P1-P5 Strategic Roadmap](claude-code-os-implementation/02-operations/project-management/active-projects/antsavvy/ROADMAP-P1-P5.md)
+
+| Priority | Focus | Timeline | Status |
+|----------|-------|----------|--------|
+| P0 | Revenue (close deals, deliver, collect) | NOW | **[AntSavvy: Close by Dec 25](claude-code-os-implementation/02-operations/project-management/active-projects/antsavvy/P0-ACTIVE-NOW.md)** |
+| P1 | Agency infrastructure (roles, splits, templates) | Jan-Feb 2026 | Building |
+| P2 | Developer pipeline (recruit, evaluate) | Feb-Apr 2026 | Planning |
+| P3 | Developer Academy ("I Code My Business") | Apr-Aug 2026 | Foundation |
+| P4 | Credibility assets (demos, case studies) | Ongoing | Active |
+| P5 | Content/inbound scaling (YouTube, SEO) | Sep 2026+ | DEFERRED until OBG |
 
 ## Quick Commands
 
@@ -95,14 +134,41 @@ ai-agency-development-os/
 | `/weekly-review [context]` | Weekly summary and planning |
 | `/project-status` | Quick view of all projects |
 
+## Key Features
+
+### Client Project Management
+- **Dedicated project folders** with full context, meeting transcripts, and execution plans
+- **Fathom integration** for automatic meeting note processing
+- **Value-based pricing framework** (price on ROI, not hours)
+- **P0-P5 priority system** ensuring revenue-first focus
+
+### LinkedIn Content Engine
+- **3x/week publishing schedule** (Mon/Wed/Fri)
+- **Process documentation focus** teaching business owners to document requirements
+- **NotebookLM integration** for infographic generation
+- **Developer Academy content pipeline** (posts → process docs → curriculum)
+
+### Developer Academy Foundation
+- **"I Code My Business" vision** - training developers to interpret business processes
+- **Dev-coach submissions** tracking potential academy instructors/students
+- **Discord code sessions** for real-time problem-solving documentation
+- **Network contacts system** for developer recruitment
+
+### Strategic Alignment System
+- **OBG tracking** toward $50k/mo × 3 months
+- **Daily/weekly/monthly planning** agents and workflows
+- **Architect role clarity** (diagnose, prototype, scope, delegate)
+- **Margin protection standards** (50-70% target)
+
 ## The Transformation
 
 | Before | After |
 |--------|-------|
 | Scattered AI sessions with no continuity | Integrated system with persistent memory |
 | Manual planning taking 30+ minutes | 1-minute automated planning |
-| Strategic drift and lost projects | Perfect strategic alignment |
-| Freelancer mindset | Architect mindset with margin protection |
+| Strategic drift and lost projects | P0-P5 priority system with active deal tracking |
+| Freelancer mindset | Architect mindset with value-based pricing |
+| No content strategy | 3x/week LinkedIn publishing + Developer Academy pipeline |
 
 ## OBG (One Big Goal)
 
