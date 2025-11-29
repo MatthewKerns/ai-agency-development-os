@@ -16,7 +16,9 @@
 - Chatbot retrieves and uses stored data
 - Pages arranged per Fathom call specifications
 
-**Payment Status:** [ ] Delivered [ ] Invoiced [ ] Collected $500
+**Payment Status:** [ ] Delivered [x] Invoiced (Nov 28) [ ] Collected $500
+**Invoice Status:** Sent Nov 28, payment processing via bank (2-3 days estimated)
+**Expected Payment:** Dec 2-3, 2025
 
 ### Phase 2 (Second $500) - QUEUED
 **Scope:**
@@ -121,4 +123,9 @@ Brand consultations and copy generation automation:
 ---
 
 ## Notes
--
+
+### November 28, 2025
+- Invoice sent for Phase 1 ($500)
+- Payment delayed due to bank processing (2-3 days)
+- Fathom recording with action items exists
+- **TODO:** Extract Fathom action items and map to project plan
