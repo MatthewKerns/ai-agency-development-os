@@ -177,13 +177,59 @@ Speed to 0→1 = foot in door = revenue before Christmas
 
 ---
 
+## PRIORITY: Process Confirmation Needed
+
+**Before building MVP, confirm with AntSavvy:**
+
+### Does their current process include something like this?
+
+**Proposed Workflow to Validate:**
+1. **During Client Meeting:**
+   - Accounts person brings spreadsheet to initial client meeting
+   - Notes down all client requirements during the meeting
+   - Fills in additional details after meeting ends
+
+2. **Client Review & Approval:**
+   - Spreadsheet sent to client for review
+   - Client confirms/approves all captured requirements
+   - Reduces "they forgot we asked for X" disputes
+
+3. **Supervisor Approval:**
+   - Reviewed and approved by supervisor before proceeding
+   - Part of their existing approval process
+
+**Where AI Agent Fits:**
+- AI "accounts" agent acts as a **layer BEFORE supervisor review**
+- Reviews the spreadsheet/requirements for:
+  - Completeness (missing items flagged)
+  - Consistency with company checklists
+  - Common mistakes or omissions
+  - Budget estimate validation
+- Human supervisor still has final approval
+- AI catches 80% of errors before supervisor sees it
+
+**Questions to Ask:**
+- [ ] Do they currently use a spreadsheet or form during client meetings?
+- [ ] Is there a client review/approval step today?
+- [ ] What does their supervisor approval process look like?
+- [ ] Would AI pre-review before supervisor save time/reduce errors?
+- [ ] What's the biggest gap in their current intake process?
+
+**Why This Matters:**
+- If they already have a spreadsheet process → AI enhances existing workflow (easier adoption)
+- If they don't → We might need to introduce the spreadsheet first, then add AI layer
+- Understanding approval chain helps position AI as "assistant to supervisor" not "replacement"
+
+---
+
 ## Next Actions (Right Now)
 
 1. **TODAY:** Confirm with AntSavvy that Dec 15 MVP is acceptable
-2. **THIS WEEKEND:** Vibe code n8n workflow (4-8 hours)
-3. **NEXT WEEK:** Test with sample scenarios, refine prompts
-4. **DEC 15:** Ship to client
-5. **DEC 25:** Close deal, collect payment
+2. **TODAY:** Validate their current intake process (spreadsheet? client approval? supervisor review?)
+3. **THIS WEEKEND:** Vibe code n8n workflow (4-8 hours)
+4. **NEXT WEEK:** Test with sample scenarios, refine prompts
+5. **DEC 15:** Ship to client
+6. **DEC 25:** Close deal, collect payment
 
 ---
 
