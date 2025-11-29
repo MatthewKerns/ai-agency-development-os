@@ -24,6 +24,8 @@ All work must drive toward this. Everything else is deferred.
 
 ## Priority Hierarchy
 
+**Full Roadmap:** [P1-P5 Strategic Roadmap](../../02-operations/project-management/active-projects/antsavvy/ROADMAP-P1-P5.md)
+
 ### P0: Revenue-Generating Activities (Non-Negotiable)
 
 **Close deals and deliver projects with margin.**
@@ -33,6 +35,9 @@ All work must drive toward this. Everything else is deferred.
 - Scope and price projects
 - Manage active client projects to completion
 - Collect payments
+
+**Active P0 Projects:**
+- [AntSavvy Deal - P0 Execution Plan](../../02-operations/project-management/active-projects/antsavvy/P0-ACTIVE-NOW.md)
 
 *If it doesn't generate revenue, question whether it should be done.*
 
