@@ -1,4 +1,4 @@
-# Imagery Brief for Pompeli - Post #1 (Nov 28)
+# Imagery Brief for Pomelli - Post #1 (Nov 28)
 
 **Post Topic:** Developer → Agency Builder mindset shift (hourly thinking vs outcome thinking)
 **Post Date:** 2025-11-28
@@ -218,7 +218,7 @@ ROI: 3-5x
 
 ## Deliverable
 
-**What Pompeli Should Provide:**
+**What Pomelli Should Provide:**
 1. Primary graphic (1200×627px or 1080×1080px)
 2. Optional: 2-3 variations for A/B testing
 3. Source file (if possible, for future edits)
@@ -229,7 +229,7 @@ ROI: 3-5x
 
 ---
 
-## Questions for Pompeli
+## Questions for Pomelli
 
 1. Which option resonates most with the brand DNA?
 2. What colors/fonts from business DNA should we use?
@@ -240,4 +240,4 @@ ROI: 3-5x
 
 **Brief Created:** 2025-11-29
 **Post Source:** Daily plan 2025-11-28 (Trevor client work, pricing transition)
-**Next:** Share with Pompeli for visual creation
+**Next:** Share with Pomelli for visual creation
