@@ -16,12 +16,29 @@ Phase 2 is **almost entirely complete** thanks to parallel development. Most fea
 
 ---
 
+## Latest Update: November 29, 2025
+
+### ✅ Major UX Improvements Shipped
+
+**Chat Sessions Enhancements:**
+- ✅ Chat sessions window now RESIZABLE (better UX)
+- ✅ Clear conversation button improved (doesn't clear ALL history anymore)
+- ✅ Better user experience for managing multiple sessions
+
+**Planning Progress:**
+- ✅ Phase 2 fully mapped and scoped
+- ✅ Phase 3 roadmap defined
+- 🎯 Ready for client walkthrough and phase 2 invoice
+
+---
+
 ## Phase 2 Deliverables (From Fathom Action Items)
 
 ### ✅ Already Complete (No Work Needed)
 1. **Finish chat sessions feature; add history/title/expand** - [Fathom timestamp 4770](https://fathom.video/share/Jpi9W9zz6dWcXBk3fLsdzj4kv8cwCvUH?timestamp=4770.9999)
    - Status: ✅ DONE (see P0_IMPLEMENTATION_STATUS.md line 97-101)
    - Features: List sessions, create new, rename inline, delete with confirmation, switch between sessions
+   - **Nov 29 UPDATE:** ✅ Resizable window + improved clear behavior
 
 2. **Copy/Download buttons for conversations**
    - Status: ✅ DONE (added Nov 28, see P0_IMPLEMENTATION_STATUS.md line 102-105)
@@ -186,11 +203,12 @@ grep -ri "privacy" src/
 
 ## Next Actions (Priority Order)
 
-### Immediate (Dec 3)
-1. Confirm Phase 1 payment received
-2. Review P0_IMPLEMENTATION_STATUS.md in idea-brand-coach repo
-3. Run end-to-end testing
-4. Document bugs and issues
+### Immediate (Nov 30 - Dec 2)
+1. **Nov 30:** Test resizable chat + clear conversation improvements
+2. **Dec 1:** Confirm Phase 1 payment received
+3. **Dec 2:** Review P0_IMPLEMENTATION_STATUS.md in idea-brand-coach repo
+4. **Dec 3:** Run end-to-end testing
+5. **Dec 3:** Document bugs and issues
 
 ### Short-term (Dec 4-5)
 5. Fix Diagnostic → Auth flow (high priority)
