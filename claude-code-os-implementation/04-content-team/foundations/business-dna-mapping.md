@@ -26,7 +26,7 @@ The foundational elements that define your business:
 
 **Brand Variations:**
 - iCodeMyBusiness (main brand)
-- Pompeli (sub-brand? or separate?)
+- Pomelli (sub-brand? or separate?)
 - AriseGroup.ai (client-facing agency)
 
 **Tagline/Positioning Statement:**
@@ -40,7 +40,7 @@ Example options:
 ```
 
 **Action Steps:**
-- [ ] Clarify relationship between iCodeMyBusiness, Pompeli, AriseGroup.ai
+- [ ] Clarify relationship between iCodeMyBusiness, Pomelli, AriseGroup.ai
 - [ ] Draft 5 tagline options
 - [ ] Select primary positioning statement
 - [ ] Document brand architecture

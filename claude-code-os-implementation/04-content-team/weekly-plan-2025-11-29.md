@@ -15,7 +15,7 @@
 ## 4 Key Initiatives This Week
 
 ### 1. LinkedIn Profile Buildout
-### 2. Business DNA Mapping (Pompeli/iCodeMyBusiness)
+### 2. Business DNA Mapping (Pomelli/iCodeMyBusiness)
 ### 3. Daily Summary → LinkedIn Content Pipeline
 ### 4. Gamma Theme Generation from Business DNA
 

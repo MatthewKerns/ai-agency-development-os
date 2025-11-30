@@ -64,7 +64,7 @@ Review & Publish
 2. **Invoke Content Team Agent:** "Generate LinkedIn posts from [specific day]'s log"
 3. **Agent outputs draft** → `/posts/drafts/`
 4. **Review & edit** for authenticity and clarity
-5. **Create imagery brief** for Pompeli
+5. **Create imagery brief** for Pomelli
 6. **Schedule post** once visual is ready
 7. **Move to published** after posting
 
@@ -163,14 +163,14 @@ Review & Publish
 1. Read a daily log (e.g., `2025-11-28.md`)
 2. Ask: "Generate LinkedIn post from this day's log"
 3. Agent creates draft in `/posts/drafts/`
-4. Create imagery brief for Pompeli
+4. Create imagery brief for Pomelli
 5. Review, refine, get visual
 6. Publish
 
 **Process:**
 - One post at a time (not batching 5 posts)
 - Refine the process as we go
-- Build imagery template with Pompeli
+- Build imagery template with Pomelli
 - Track what resonates
 
 ---
@@ -191,13 +191,13 @@ Review & Publish
 - CTA: "What's stopping you from pricing based on value?"
 
 **Imagery Brief Created:**
-- 4 visual options for Pompeli
+- 4 visual options for Pomelli
 - Priority: Before/After split screen comparison
 - Brand-aligned, developer-focused aesthetic
 
 **Result:**
 - Post draft ready
-- Waiting on visual from Pompeli
+- Waiting on visual from Pomelli
 - Will publish once complete
 
 ---
