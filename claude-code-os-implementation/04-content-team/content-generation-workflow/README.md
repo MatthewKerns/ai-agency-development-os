@@ -45,25 +45,28 @@ Review & Publish
 
 ## How To Use
 
-### Daily (End of Day - 10 minutes)
+### Daily (Already Done in Your Daily Planning)
 
-1. **Open template:** `/templates/daily-summary-template.md`
-2. **Fill out:**
-   - Client work done (what problem you solved)
-   - Business lessons (pricing, scoping, operations)
-   - AI leverage (how Claude Code helped scale)
-   - Mindset shifts (developer → agency owner)
-   - Academy opportunities (what could teach others)
-3. **Save to:** `/daily-summaries/[year]-[month]/[date]-summary.md`
+**Content sources from Executive Office:**
+- Daily planning logs: `/01-executive-office/daily-planning/logs/`
+- Weekly plans: `/01-executive-office/daily-planning/logs/[year]-[month]-[day]-to-[day]-weekly-plan.md`
+
+**What to look for in daily logs:**
+- Client work and deliverables
+- Business decisions (pricing, scoping, operations)
+- Agency building activities
+- Challenges and solutions
+- Strategic lessons learned
 
 ### Weekly (Monday Morning - 30 minutes)
 
-1. **Review last week's 5 daily summaries**
-2. **Invoke Content Team Agent:** "Generate 5 LinkedIn posts from this week's summaries"
-3. **Agent outputs 5 drafts** → `/posts/drafts/`
+1. **Review last week's daily planning logs** from `/01-executive-office/daily-planning/logs/`
+2. **Invoke Content Team Agent:** "Generate LinkedIn posts from [specific day]'s log"
+3. **Agent outputs draft** → `/posts/drafts/`
 4. **Review & edit** for authenticity and clarity
-5. **Schedule posts** for next week (Mon-Fri, 9am)
-6. **Move to published** once posted
+5. **Create imagery brief** for Pompeli
+6. **Schedule post** once visual is ready
+7. **Move to published** after posting
 
 ---
 
@@ -134,16 +137,15 @@ Review & Publish
 ## Files & Structure
 
 ```
+01-executive-office/
+└── daily-planning/
+    └── logs/ (SOURCE: Your daily work logs)
+
 04-content-team/
-├── templates/
-│   └── daily-summary-template.md (use this daily)
 ├── agents/
 │   └── content-team-agent.md (generates LinkedIn posts)
-├── daily-summaries/
-│   ├── 2025-11/
-│   └── 2025-12/
 ├── posts/
-│   ├── drafts/ (agent outputs here)
+│   ├── drafts/ (post drafts + imagery briefs)
 │   └── published/ (move after posting)
 └── weekly-content-reviews/
     └── [track what works]
@@ -153,40 +155,50 @@ Review & Publish
 
 ## Quick Start
 
-**Today (First Time Setup):**
-1. Read `/agents/content-team-agent.md` to understand the system
-2. Copy `/templates/daily-summary-template.md`
-3. Fill it out for today's work
-4. Save to `/daily-summaries/2025-11/nov-29-summary.md`
+**You're Already Doing Step 1:**
+- Daily planning logs in `/01-executive-office/daily-planning/logs/`
+- These are your content source material
 
-**Next Week (Going Live):**
-1. Complete 5 daily summaries (Mon-Fri)
-2. Monday morning: Generate 5 posts using agent
-3. Review, edit, schedule
-4. Publish throughout the week
-5. Track engagement and iterate
+**To Generate Content:**
+1. Read a daily log (e.g., `2025-11-28.md`)
+2. Ask: "Generate LinkedIn post from this day's log"
+3. Agent creates draft in `/posts/drafts/`
+4. Create imagery brief for Pompeli
+5. Review, refine, get visual
+6. Publish
+
+**Process:**
+- One post at a time (not batching 5 posts)
+- Refine the process as we go
+- Build imagery template with Pompeli
+- Track what resonates
 
 ---
 
-## Example Daily Summary → Post Flow
+## Example Daily Log → Post Flow
 
-**Daily Summary (Wed):**
-- Worked on AntSavvy requirements parser
-- Claude Code helped debug regex in 5 min (saved 2 hours)
-- Learned: AI scales delivery = can serve more clients
-- This becomes academy lesson on AI leverage
+**Daily Log (Thu - Nov 28):**
+- Trevor client demo prep at 7:30am
+- Phased delivery: $500 Phase 1 + $500 Phase 2
+- Sent bank account details for professional payments
+- Mindset shift: Hourly rate → Business outcome value
 
-**Agent Generates (Wed - AI Leverage Series):**
-- Hook: "Claude Code saved me 2 hours on a regex problem"
-- Story: AntSavvy project context
-- Before/after: Manual debugging vs AI assistance
-- Lesson: AI as agency scaling tool
-- CTA: "How are you using AI to scale?"
+**Agent Generates (Thu - Developer → Agency Builder Series):**
+- Hook: "I had my first 'agency owner' moment this morning"
+- Story: Client demo prep, pricing transition
+- Before/after: Hourly thinking vs outcome thinking
+- Lesson: Phased delivery, value-based pricing
+- CTA: "What's stopping you from pricing based on value?"
 
-**Published:**
-- Wednesday 9am on LinkedIn
-- Tagged: #iCodeMyBusiness #AILeverage #AgencyBuilding
-- Drives engagement from developers interested in AI agencies
+**Imagery Brief Created:**
+- 4 visual options for Pompeli
+- Priority: Before/After split screen comparison
+- Brand-aligned, developer-focused aesthetic
+
+**Result:**
+- Post draft ready
+- Waiting on visual from Pompeli
+- Will publish once complete
 
 ---
 

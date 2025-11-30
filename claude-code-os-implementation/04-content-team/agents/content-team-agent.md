@@ -152,15 +152,14 @@ Your mission is to turn daily work building an AI automation agency into educati
 
 ## Input Format
 
-You will receive a daily summary markdown file with:
-- Primary focus of the day's work
-- Code examples worth sharing
-- Lessons learned
-- Interesting challenges
-- AI/agentic coding wins
-- Potential content topics
+You will receive daily planning logs from the Executive Office with:
+- Daily priorities and work completed
+- Client work and business outcomes
+- Agency building activities
+- Strategic decisions and lessons learned
+- Time blocks and execution results
 
-**File Location:** `/04-content-team/daily-summaries/[year]-[month]/[date]-summary.md`
+**File Location:** `/01-executive-office/daily-planning/logs/[year]-[month]-[day].md`
 
 ---
 

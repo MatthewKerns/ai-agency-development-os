@@ -83,10 +83,10 @@ Daily Summary Template:
 ```
 
 **Action Steps:**
-- [ ] Create enhanced daily summary template
-- [ ] Add to daily roadmap process
-- [ ] Save summaries in: `/claude-code-os-implementation/04-content-team/daily-summaries/[year]-[month]/`
-- [ ] Test for 3 days
+- [x] Use existing daily planning logs from Executive Office
+- [ ] Reference: `/01-executive-office/daily-planning/logs/`
+- [ ] Pull content from completed daily logs
+- [ ] No separate summary needed (already captured in daily plans)
 
 ---
 
@@ -234,28 +234,19 @@ Friday PM:
 ## Pipeline Folder Structure
 
 ```
+01-executive-office/
+└── daily-planning/
+    └── logs/ (SOURCE: Daily work logs with all context)
+
 04-content-team/
-├── daily-summaries/
-│   ├── 2025-11/
-│   │   ├── nov-29-summary.md
-│   │   ├── nov-30-summary.md
-│   │   └── ...
-│   └── 2025-12/
-│       └── ...
 ├── agents/
-│   └── content-team-agent.md
-├── templates/
-│   ├── monday-fundamentals-template.md
-│   ├── tuesday-documentation-template.md
-│   ├── wednesday-agentic-coding-template.md
-│   ├── thursday-workflow-template.md
-│   └── friday-testing-template.md
+│   └── content-team-agent.md (reads daily logs, generates posts)
 ├── posts/
 │   ├── drafts/
-│   │   ├── 2025-12-02-draft.md
-│   │   └── ...
+│   │   ├── [date]-post-draft.md
+│   │   └── [date]-imagery-brief-for-pompeli.md
 │   └── published/
-│       └── ...
+│       └── [date]-published.md
 └── weekly-content-reviews/
     ├── 2025-week-48-review.md
     └── ...
