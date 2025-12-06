@@ -2,8 +2,8 @@
 
 **Purpose:** Track salespeople, connectors, and networkers who can bring deals in specific industries
 
-**Total:** 0
-**Last Updated:** 2025-11-25
+**Total:** 3
+**Last Updated:** 2025-12-06
 
 ---
 
@@ -86,7 +86,103 @@
 
 ## E-commerce & Retail
 
-> Add lead generators who work in e-commerce/retail
+---
+### Eric (UK)
+**Met:** 2025-12-06 (Virtual Meeting)
+**Role:** Sales / BizDev / Network Leader
+**Contact:** [Need to get - follow up]
+**Location:** United Kingdom
+
+**Their Business:**
+Working with e-commerce sellers - leader in his network for AI automation solutions. Building sales presentation for his network. Has full-time job currently, transitioning to full-time agency owner when income sufficient.
+
+**Niches They Work:**
+- E-commerce sellers (Amazon FBA, Shopify)
+- AI automation solutions
+- Business process automation
+
+**Networks They're In:**
+- E-commerce seller network (UK-based)
+- [Additional networks - need to explore]
+
+**Deal Flow:**
+- **Quality:** High - direct relationships with e-commerce sellers
+- **Volume:** Medium-High (building network, motivated)
+- **Ticket Size:** TBD - e-commerce automation typically $2k-$10k
+
+**Relationship Status:** Active Conversation
+- **Last Contact:** 2025-12-06 (meeting today)
+- **Trust Level:** Warming
+- **Reciprocity:** Developer partnership - he brings deals, I build
+- **Commission Expectation:** Partnership model (TBD - discuss structure)
+
+**What They Can Bring You:**
+- E-commerce automation projects
+- Seller network access
+- Repeat automation builds
+- Practice ground for e-commerce systems (offered my company)
+
+**What You Can Give Them:**
+- Development partnership (he sells, you build)
+- Demo videos to support his sales presentations
+- E-commerce automation expertise
+- Scratch & Win flow as proof of capability
+
+**Sales Style:**
+- Relationship-based (building trust with network)
+- Sales presentation approach
+- Likes building but prefers sales side
+- Doesn't want to do everything himself (aligned mindset)
+
+**Agency Fit:**
+- **Best for:** E-commerce automations, customer engagement flows, inventory systems
+- **Not good for:** Unknown yet
+- **Strategic Value:** HIGH - e-commerce niche focus + sales partnership model
+
+**Partnership Opportunity:**
+Eric explicitly wants to partner with a developer. He's leaning into sales because he doesn't want to do everything himself. This aligns with the Architect model: he brings deals, you scope/build/deliver.
+
+**Offered:**
+- My e-commerce company as practice ground for automations
+- Scratch & Win flow demonstration
+
+**Activation Plan:**
+- [x] Initial meeting (2025-12-06)
+- [ ] Create Scratch & Win demo video
+- [ ] Create Brand Coach demo video
+- [ ] Share demos with Eric
+- [ ] Discuss partnership structure
+- [ ] Explore automation opportunities on my e-commerce company
+- [ ] Get his contact details for follow-up
+- [ ] Set regular check-in cadence
+
+**Deal History:**
+- Deals brought: 0 (just started)
+- Revenue generated: $0
+- Close rate: N/A
+
+**Next Steps:**
+- [ ] PRIORITY: Film Scratch & Win demo (today)
+- [ ] PRIORITY: Film Brand Coach demo (today)
+- [ ] Send demos to Eric
+- [ ] Schedule follow-up call to discuss partnership structure
+- [ ] Identify first automation project for my e-commerce company
+
+**Notes:**
+- **MET 2025-12-06 (Virtual)**
+- **HIGH PRIORITY PARTNERSHIP OPPORTUNITY**
+- Similar mindset: doesn't want to do everything himself
+- Has full-time job, transitioning when income sufficient
+- E-commerce niche = high-value, repeatable automations
+- My e-commerce company = practice ground (mutual benefit)
+- Already showed Scratch & Win flow overview
+- Needs demo videos to include in his sales presentation
+- Perfect sales-developer partnership model
+- **FOLLOW UP FAST with demo videos**
+
+---
+
+> Add more lead generators who work in e-commerce/retail
 
 ---
 
@@ -365,9 +461,10 @@ Sales consulting - helps businesses build sales systems and processes
 
 | Niche | Count | Active Deals | Revenue Generated |
 |-------|-------|--------------|-------------------|
-| E-commerce | 0 | 0 | $0 |
-| Professional Services | 0 | 0 | $0 |
+| E-commerce | 1 | 0 | $0 |
+| Professional Services | 1 | 0 | $0 |
 | Healthcare | 0 | 0 | $0 |
 | SaaS/Tech | 0 | 0 | $0 |
 | Real Estate | 0 | 0 | $0 |
-| **TOTAL** | **0** | **0** | **$0** |
+| Other (BNI/Community) | 1 | 0 | $0 |
+| **TOTAL** | **3** | **0** | **$0** |

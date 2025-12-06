@@ -2,8 +2,8 @@
 
 **Quick Reference:** Find the right person to bring you deals in specific niches or networks
 
-**Total Lead Generators:** 2
-**Last Updated:** 2025-11-25
+**Total Lead Generators:** 3
+**Last Updated:** 2025-12-06
 
 ---
 
@@ -33,10 +33,10 @@
 ## By Niche Coverage
 
 ### E-commerce
-- [Name] - [Network access] - [Deal potential]
+- **Eric (UK)** - E-commerce seller network - HIGH (partnership opportunity)
 
 ### Professional Services
-- [Name] - [Network access] - [Deal potential]
+- **Trent Christopher** - US Networking, ISA groups - HIGH (5-10 clients)
 
 ### Healthcare
 - [Name] - [Network access] - [Deal potential]
@@ -99,7 +99,7 @@
 - [Name] - [Niche] - Contacted: [Date] - Follow-up: [Date]
 
 ### Active Conversation (Engaging)
-- [Name] - [Niche] - Stage: [Context] - Next step: [Action]
+- **Eric (UK)** - E-commerce - Stage: Partnership Discussion - Next step: Send demo videos (Scratch & Win, Brand Coach)
 
 ### Actively Working With (Current partnerships)
 - [Name] - [Niche] - Last deal: [Date] - Next check-in: [Date]
