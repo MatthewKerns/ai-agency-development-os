@@ -105,12 +105,30 @@
 
 ---
 
-### Thursday, Dec 5 (Full Work Day)
+### Thursday, Dec 5 (Full Work Day) ✅ COMPLETED
 **Time Available:** 8am-6pm (10 hours)
-**Focus:** High-impact revenue infrastructure
+**Focus:** Trevor Phase 2 bug fixes + high-impact revenue infrastructure
 
-#### Morning Block 1: Equity Partners Research (2.5 hours)
-**8:00-10:30am**
+#### Morning Block 1: Trevor Phase 2 Bug Fixes (3 hours)
+**8:00-11:00am**
+
+| Task | Time | Output |
+|------|------|--------|
+| Fix minimized-state logout bug | 90 min | ✅ Bug fixed |
+| Fix embeddings storage (diagnostic → chatbot) | 60 min | 🔄 In progress |
+| Add logging for embeddings pipeline | 20 min | ✅ Logging added |
+| Send invoice/receipt to Trevor ($500 PayPal) | 10 min | ✅ Invoice sent |
+
+**Exit Criteria:**
+- [x] Minimized logout bug fixed
+- [x] Invoice sent to Trevor
+- [ ] Embeddings storage issue resolved
+- [ ] All fixes pushed to Lovable
+
+---
+
+#### Morning Block 2: Equity Partners Research (2.5 hours)
+**11:00am-1:30pm** (MOVED FROM 8:00-10:30am)
 
 | Task | Time | Output |
 |------|------|--------|
@@ -127,8 +145,8 @@
 
 ---
 
-#### Morning Block 2: Development Coaching Session (90 min)
-**10:30am-12:00pm**
+#### Afternoon Block 1: Development Coaching Session (90 min)
+**1:30pm-3:00pm** (MOVED FROM 10:30am-12:00pm)
 
 | Task | Time | Output |
 |------|------|--------|
@@ -151,13 +169,8 @@
 
 ---
 
-#### Lunch Break
-**12:00-1:00pm**
-
----
-
-#### Afternoon Block 1: Freelance Platform Setup - Fiverr (2 hours)
-**1:00-3:00pm**
+#### Afternoon Block 2: Freelance Platform Setup - Fiverr (2 hours)
+**3:00-5:00pm** (MOVED FROM 1:00-3:00pm)
 
 | Task | Time | Output |
 |------|------|--------|
@@ -180,8 +193,8 @@
 
 ---
 
-#### Afternoon Block 2: Freelance Platform Setup - Upwork & Contra (2 hours)
-**3:00-5:00pm**
+#### Evening Block 1: Freelance Platform Setup - Upwork & Contra (2 hours)
+**5:00-7:00pm** (MOVED FROM 3:00-5:00pm)
 
 | Task | Time | Output |
 |------|------|--------|
@@ -212,8 +225,8 @@
 
 ---
 
-#### Evening Block: AAA KPIs + Training (90 min)
-**5:00-6:30pm**
+#### Evening Block 2: AAA KPIs + Training (90 min)
+**7:00-8:30pm** (MOVED FROM 5:00-6:30pm)
 
 | Task | Time | Output |
 |------|------|--------|
